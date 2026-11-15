@@ -1,0 +1,26 @@
+-- Copy these into Power BI > Modeling > New Measure
+
+Total Sales = SUM(Orders[Sales])
+Total Profit = SUM(Orders[Profit])
+Total Orders = COUNTROWS(Orders)
+Total Quantity = SUM(Orders[Quantity])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
+
+Avg Order Value = DIVIDE([Total Sales], [Total Orders], 0)
+
+YoY Sales Growth % =
+VAR PrevYear = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Calendar'[Date]))
+RETURN DIVIDE([Total Sales] - PrevYear, PrevYear, 0)
+
+High Discount Sales = CALCULATE([Total Sales], Orders[Discount] > 0.2)
+
+-- Calendar Table (Modeling > New Table)
+Calendar =
+ADDCOLUMNS(
+  CALENDAR(DATE(2022,1,1), DATE(2023,12,31)),
+  "Year", YEAR([Date]),
+  "Month", MONTH([Date]),
+  "MonthName", FORMAT([Date], "MMM"),
+  "Quarter", "Q" & FORMAT([Date], "Q")
+)

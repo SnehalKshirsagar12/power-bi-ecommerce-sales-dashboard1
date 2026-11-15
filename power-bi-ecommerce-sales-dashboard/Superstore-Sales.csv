@@ -1,0 +1,1001 @@
+OrderID,OrderDate,Segment,Region,State,Category,Product,Quantity,UnitPrice,Discount,Sales,Profit
+ORD-1001,2023-10-17,Consumer,West,Arizona,Technology,Headphones,2,129,0,258,-9.6
+ORD-1002,2023-07-13,Consumer,West,Arizona,Office Supplies,Stapler,1,15,0,15,-0.87
+ORD-1003,2023-09-09,Home Office,West,Washington,Office Supplies,Pen Set,5,12,0.2,48.0,-0.04
+ORD-1004,2022-01-07,Corporate,East,New York,Office Supplies,Stapler,3,15,0.1,40.5,-1.22
+ORD-1005,2022-04-05,Consumer,South,Alabama,Technology,Headphones,3,129,0.3,270.9,5.16
+ORD-1006,2023-04-16,Home Office,West,Washington,Furniture,Office Chair,5,199,0.1,895.5,244.68
+ORD-1007,2023-08-15,Consumer,East,New York,Office Supplies,Notebook Pack,1,19,0,19,4.71
+ORD-1008,2022-04-14,Consumer,South,Alabama,Furniture,Sofa,3,599,0,1797,119.65
+ORD-1009,2022-10-01,Corporate,West,Washington,Office Supplies,Pen Set,5,12,0,60,-1.59
+ORD-1010,2023-10-18,Corporate,East,Florida,Office Supplies,Printer Paper,1,25,0,25,6.75
+ORD-1011,2022-10-02,Home Office,West,Washington,Technology,Headphones,2,129,0.2,206.4,16.11
+ORD-1012,2022-05-27,Home Office,Central,Illinois,Technology,Laptop HP,5,999,0.3,3496.5,63.75
+ORD-1013,2023-08-21,Consumer,South,Georgia,Furniture,Study Table,2,249,0.3,348.6,42.56
+ORD-1014,2022-06-06,Home Office,East,Florida,Office Supplies,Stapler,5,15,0,75,5.49
+ORD-1015,2023-06-26,Home Office,Central,Illinois,Office Supplies,Notebook Pack,1,19,0.3,13.3,3.16
+ORD-1016,2022-04-25,Home Office,Central,Illinois,Furniture,Study Table,4,249,0,996,327.9
+ORD-1017,2023-05-28,Consumer,East,Florida,Office Supplies,Notebook Pack,3,19,0.3,39.9,6.94
+ORD-1018,2022-06-15,Corporate,West,Washington,Office Supplies,Printer Paper,4,25,0,100,-4.97
+ORD-1019,2022-09-03,Home Office,West,California,Technology,iPhone 14,1,799,0.2,639.2,170.8
+ORD-1020,2022-05-12,Corporate,South,Georgia,Office Supplies,Pen Set,3,12,0.3,25.2,7.37
+ORD-1021,2023-07-07,Home Office,East,Florida,Office Supplies,Printer Paper,4,25,0.1,90.0,8.74
+ORD-1022,2022-05-04,Consumer,East,Ohio,Technology,iPhone 14,3,799,0,2397,394.88
+ORD-1023,2022-08-14,Corporate,West,California,Technology,iPhone 14,2,799,0,1598,491.29
+ORD-1024,2023-06-11,Home Office,East,Ohio,Furniture,Sofa,2,599,0.3,838.6,-33.93
+ORD-1025,2023-04-30,Corporate,East,Florida,Furniture,Sofa,2,599,0,1198,-67.54
+ORD-1026,2023-03-10,Corporate,South,Georgia,Furniture,Office Chair,1,199,0,199,16.15
+ORD-1027,2022-09-12,Corporate,East,New York,Technology,"Monitor 27""",2,299,0.2,478.4,-8.34
+ORD-1028,2022-03-19,Consumer,South,Georgia,Office Supplies,Notebook Pack,1,19,0.3,13.3,3.67
+ORD-1029,2022-06-20,Consumer,South,Tennessee,Furniture,Sofa,2,599,0.2,958.4,293.37
+ORD-1030,2022-01-03,Home Office,South,Alabama,Furniture,Sofa,3,599,0.2,1437.6,306.88
+ORD-1031,2023-11-09,Home Office,South,Alabama,Technology,Laptop HP,3,999,0,2997,1006.75
+ORD-1032,2023-07-10,Home Office,West,Arizona,Office Supplies,Printer Paper,1,25,0,25,4.07
+ORD-1033,2022-06-11,Home Office,West,California,Office Supplies,Notebook Pack,2,19,0,38,6.38
+ORD-1034,2023-02-18,Consumer,West,Washington,Office Supplies,Pen Set,5,12,0.3,42.0,-3.45
+ORD-1035,2023-11-05,Consumer,Central,Colorado,Furniture,Study Table,3,249,0,747,14.59
+ORD-1036,2023-10-23,Home Office,Central,Texas,Furniture,Bookshelf,1,149,0,149,15.83
+ORD-1037,2022-03-17,Consumer,East,Florida,Office Supplies,Printer Paper,2,25,0.1,45.0,13.34
+ORD-1038,2022-10-19,Home Office,East,Florida,Furniture,Bookshelf,5,149,0.3,521.5,-50.31
+ORD-1039,2023-11-11,Consumer,West,Washington,Technology,Headphones,1,129,0,129,30.2
+ORD-1040,2022-10-16,Corporate,East,New York,Office Supplies,Printer Paper,2,25,0.1,45.0,5.73
+ORD-1041,2022-04-05,Home Office,South,Tennessee,Furniture,Office Chair,1,199,0.1,179.1,44.24
+ORD-1042,2022-06-15,Home Office,South,Georgia,Office Supplies,Stapler,5,15,0,75,-3.72
+ORD-1043,2023-07-13,Corporate,West,California,Furniture,Study Table,4,249,0,996,-80.85
+ORD-1044,2023-01-02,Corporate,East,Ohio,Office Supplies,Pen Set,1,12,0.1,10.8,2.71
+ORD-1045,2022-06-08,Corporate,East,Florida,Technology,Laptop HP,4,999,0,3996,-77.07
+ORD-1046,2023-11-17,Corporate,East,New York,Furniture,Study Table,1,249,0.2,199.2,58.26
+ORD-1047,2022-07-24,Consumer,South,Tennessee,Furniture,Bookshelf,2,149,0,298,-26.63
+ORD-1048,2022-12-03,Home Office,Central,Illinois,Technology,Headphones,3,129,0.3,270.9,21.63
+ORD-1049,2022-01-29,Home Office,West,Washington,Furniture,Study Table,5,249,0.1,1120.5,-92.76
+ORD-1050,2022-12-20,Consumer,Central,Colorado,Furniture,Office Chair,4,199,0.3,557.2,-8.06
+ORD-1051,2023-03-23,Home Office,West,Washington,Office Supplies,Pen Set,3,12,0.2,28.8,-1.97
+ORD-1052,2023-10-01,Corporate,Central,Illinois,Office Supplies,Notebook Pack,3,19,0.3,39.9,1.56
+ORD-1053,2023-02-17,Corporate,Central,Colorado,Office Supplies,Pen Set,2,12,0.2,19.2,3.82
+ORD-1054,2022-06-28,Home Office,Central,Colorado,Furniture,Office Chair,3,199,0.1,537.3,-2.91
+ORD-1055,2023-11-02,Home Office,Central,Texas,Furniture,Sofa,4,599,0,2396,311.55
+ORD-1056,2023-11-06,Consumer,West,California,Furniture,Bookshelf,1,149,0,149,30.21
+ORD-1057,2022-05-31,Consumer,West,Washington,Technology,Laptop HP,4,999,0.3,2797.2,789.88
+ORD-1058,2023-03-01,Home Office,East,Ohio,Office Supplies,Stapler,4,15,0.2,48.0,0.47
+ORD-1059,2022-01-06,Home Office,West,California,Furniture,Study Table,2,249,0.3,348.6,38.01
+ORD-1060,2022-05-05,Corporate,South,Alabama,Technology,"Monitor 27""",5,299,0.3,1046.5,175.76
+ORD-1061,2023-06-01,Consumer,South,Alabama,Office Supplies,Stapler,2,15,0.2,24.0,2.46
+ORD-1062,2022-10-11,Corporate,South,Georgia,Office Supplies,Pen Set,3,12,0.2,28.8,-1.88
+ORD-1063,2022-10-06,Home Office,Central,Texas,Furniture,Office Chair,2,199,0,398,1.62
+ORD-1064,2022-08-08,Consumer,West,California,Furniture,Sofa,3,599,0.3,1257.9,137.95
+ORD-1065,2023-03-07,Corporate,South,Tennessee,Office Supplies,Notebook Pack,5,19,0.2,76.0,8.71
+ORD-1066,2023-02-04,Corporate,South,Georgia,Office Supplies,Pen Set,4,12,0,48,1.1
+ORD-1067,2023-02-03,Home Office,Central,Colorado,Office Supplies,Stapler,2,15,0.2,24.0,7.53
+ORD-1068,2022-01-28,Corporate,South,Georgia,Office Supplies,Notebook Pack,1,19,0.2,15.2,-0.59
+ORD-1069,2022-02-21,Corporate,Central,Illinois,Furniture,Bookshelf,2,149,0.2,238.4,11.22
+ORD-1070,2023-03-08,Corporate,Central,Texas,Technology,"Monitor 27""",1,299,0.3,209.3,-16.02
+ORD-1071,2023-10-28,Consumer,West,Arizona,Office Supplies,Notebook Pack,1,19,0,19,-0.2
+ORD-1072,2022-06-06,Corporate,East,Ohio,Technology,"Monitor 27""",1,299,0.3,209.3,68.33
+ORD-1073,2022-09-20,Consumer,Central,Illinois,Technology,iPhone 14,2,799,0.1,1438.2,-73.86
+ORD-1074,2023-08-13,Home Office,South,Georgia,Furniture,Study Table,1,249,0.3,174.3,36.74
+ORD-1075,2022-04-15,Corporate,Central,Colorado,Office Supplies,Notebook Pack,5,19,0,95,5.34
+ORD-1076,2023-01-15,Consumer,West,Washington,Office Supplies,Printer Paper,1,25,0.2,20.0,5.4
+ORD-1077,2023-01-06,Home Office,South,Tennessee,Office Supplies,Pen Set,4,12,0,48,11.05
+ORD-1078,2023-09-23,Consumer,South,Georgia,Furniture,Sofa,5,599,0.1,2695.5,121.4
+ORD-1079,2022-10-13,Corporate,South,Georgia,Technology,"Monitor 27""",5,299,0.3,1046.5,210.02
+ORD-1080,2023-05-22,Corporate,Central,Illinois,Technology,"Monitor 27""",2,299,0.1,538.2,139.41
+ORD-1081,2023-09-03,Home Office,Central,Illinois,Office Supplies,Notebook Pack,5,19,0,95,-5.84
+ORD-1082,2023-05-16,Consumer,East,Florida,Office Supplies,Stapler,4,15,0.2,48.0,12.33
+ORD-1083,2022-08-15,Home Office,South,Alabama,Office Supplies,Pen Set,3,12,0.3,25.2,1.66
+ORD-1084,2022-12-19,Corporate,South,Georgia,Office Supplies,Printer Paper,3,25,0.2,60.0,1.31
+ORD-1085,2022-05-04,Home Office,East,Florida,Furniture,Office Chair,5,199,0,995,-13.74
+ORD-1086,2022-10-11,Corporate,Central,Texas,Technology,Laptop HP,3,999,0,2997,187.0
+ORD-1087,2023-07-01,Consumer,East,Ohio,Furniture,Office Chair,1,199,0.3,139.3,4.38
+ORD-1088,2023-05-18,Consumer,West,California,Technology,Headphones,4,129,0.2,412.8,40.54
+ORD-1089,2022-09-16,Home Office,South,Alabama,Technology,iPhone 14,4,799,0.2,2556.8,-170.44
+ORD-1090,2022-02-24,Corporate,East,Ohio,Technology,Headphones,1,129,0,129,-6.02
+ORD-1091,2023-09-03,Home Office,East,Florida,Office Supplies,Stapler,4,15,0.2,48.0,1.62
+ORD-1092,2022-11-09,Consumer,West,California,Office Supplies,Notebook Pack,2,19,0,38,0.73
+ORD-1093,2022-09-03,Home Office,East,Ohio,Office Supplies,Notebook Pack,2,19,0,38,3.19
+ORD-1094,2023-04-27,Corporate,Central,Texas,Technology,Laptop HP,3,999,0.1,2697.3,583.55
+ORD-1095,2022-08-28,Home Office,Central,Texas,Office Supplies,Pen Set,4,12,0,48,6.96
+ORD-1096,2022-09-30,Home Office,East,Florida,Technology,iPhone 14,2,799,0.1,1438.2,241.29
+ORD-1097,2023-03-26,Corporate,West,Washington,Furniture,Bookshelf,4,149,0.1,536.4,67.16
+ORD-1098,2022-03-24,Consumer,West,Arizona,Furniture,Bookshelf,5,149,0.1,670.5,-59.25
+ORD-1099,2023-08-13,Consumer,West,Washington,Office Supplies,Printer Paper,5,25,0,125,30.42
+ORD-1100,2023-06-16,Corporate,South,Georgia,Furniture,Study Table,5,249,0.2,996.0,184.91
+ORD-1101,2023-04-27,Corporate,Central,Illinois,Furniture,Bookshelf,3,149,0,447,127.83
+ORD-1102,2023-05-23,Corporate,Central,Illinois,Office Supplies,Stapler,5,15,0,75,7.85
+ORD-1103,2022-11-28,Consumer,West,Arizona,Furniture,Office Chair,5,199,0.2,796.0,68.43
+ORD-1104,2023-01-06,Consumer,South,Tennessee,Office Supplies,Stapler,1,15,0,15,0.3
+ORD-1105,2023-03-25,Corporate,South,Alabama,Technology,iPhone 14,5,799,0,3995,876.51
+ORD-1106,2022-01-15,Home Office,South,Georgia,Technology,Laptop HP,1,999,0.2,799.2,260.68
+ORD-1107,2023-05-26,Consumer,Central,Illinois,Office Supplies,Printer Paper,4,25,0.2,80.0,27.29
+ORD-1108,2023-07-19,Consumer,East,New York,Furniture,Study Table,5,249,0.3,871.5,205.53
+ORD-1109,2022-10-10,Home Office,South,Alabama,Furniture,Bookshelf,1,149,0.1,134.1,30.4
+ORD-1110,2023-11-07,Home Office,South,Alabama,Technology,"Monitor 27""",5,299,0.2,1196.0,66.15
+ORD-1111,2023-01-22,Corporate,South,Georgia,Furniture,Study Table,2,249,0.3,348.6,25.22
+ORD-1112,2022-11-22,Consumer,South,Georgia,Office Supplies,Stapler,4,15,0,60,7.37
+ORD-1113,2023-05-30,Consumer,Central,Colorado,Technology,"Monitor 27""",1,299,0.3,209.3,64.82
+ORD-1114,2022-05-28,Corporate,South,Tennessee,Office Supplies,Pen Set,1,12,0.2,9.6,2.42
+ORD-1115,2023-10-01,Corporate,South,Alabama,Office Supplies,Notebook Pack,3,19,0.3,39.9,2.83
+ORD-1116,2023-05-15,Home Office,West,California,Office Supplies,Notebook Pack,2,19,0.1,34.2,11.93
+ORD-1117,2023-03-21,Consumer,West,California,Office Supplies,Notebook Pack,4,19,0,76,16.13
+ORD-1118,2022-11-29,Home Office,West,Washington,Furniture,Bookshelf,3,149,0.2,357.6,-12.33
+ORD-1119,2023-08-03,Home Office,East,Ohio,Technology,Laptop HP,1,999,0.3,699.3,204.11
+ORD-1120,2022-09-04,Corporate,South,Tennessee,Office Supplies,Pen Set,2,12,0.2,19.2,3.59
+ORD-1121,2023-11-14,Corporate,West,Arizona,Furniture,Bookshelf,5,149,0,745,-49.74
+ORD-1122,2022-11-03,Corporate,South,Tennessee,Office Supplies,Printer Paper,4,25,0.1,90.0,-0.93
+ORD-1123,2022-04-20,Corporate,East,New York,Furniture,Bookshelf,5,149,0.1,670.5,232.47
+ORD-1124,2023-11-06,Home Office,South,Tennessee,Furniture,Office Chair,5,199,0,995,308.23
+ORD-1125,2022-10-21,Home Office,East,Ohio,Office Supplies,Printer Paper,2,25,0,50,8.97
+ORD-1126,2023-11-07,Consumer,East,Ohio,Office Supplies,Notebook Pack,1,19,0.1,17.1,4.36
+ORD-1127,2023-01-09,Consumer,East,Ohio,Technology,Headphones,3,129,0.2,309.6,-6.49
+ORD-1128,2023-01-10,Corporate,Central,Texas,Technology,Headphones,4,129,0.1,464.4,109.58
+ORD-1129,2023-04-25,Corporate,West,California,Technology,Laptop HP,4,999,0.3,2797.2,180.7
+ORD-1130,2022-09-28,Home Office,West,Washington,Furniture,Bookshelf,3,149,0.3,312.9,22.36
+ORD-1131,2022-04-21,Home Office,East,New York,Furniture,Office Chair,5,199,0.3,696.5,33.16
+ORD-1132,2023-10-26,Consumer,West,California,Office Supplies,Stapler,3,15,0.2,36.0,-1.71
+ORD-1133,2022-11-08,Corporate,South,Tennessee,Technology,iPhone 14,2,799,0.3,1118.6,-43.57
+ORD-1134,2023-11-18,Home Office,South,Tennessee,Office Supplies,Pen Set,4,12,0,48,13.21
+ORD-1135,2022-10-14,Consumer,West,Washington,Office Supplies,Printer Paper,2,25,0.2,40.0,4.0
+ORD-1136,2022-04-12,Consumer,Central,Illinois,Office Supplies,Printer Paper,1,25,0.2,20.0,0.48
+ORD-1137,2022-04-04,Consumer,East,Ohio,Office Supplies,Notebook Pack,1,19,0.1,17.1,0.16
+ORD-1138,2022-07-30,Consumer,West,Washington,Office Supplies,Pen Set,5,12,0,60,15.95
+ORD-1139,2022-06-01,Consumer,West,California,Furniture,Study Table,2,249,0.3,348.6,4.46
+ORD-1140,2023-11-08,Consumer,West,California,Technology,iPhone 14,3,799,0,2397,395.47
+ORD-1141,2022-09-29,Corporate,West,Washington,Technology,"Monitor 27""",5,299,0,1495,352.15
+ORD-1142,2023-01-06,Home Office,West,Arizona,Furniture,Study Table,5,249,0,1245,282.94
+ORD-1143,2022-11-05,Corporate,South,Alabama,Office Supplies,Notebook Pack,1,19,0.2,15.2,4.28
+ORD-1144,2022-04-21,Consumer,South,Georgia,Office Supplies,Stapler,1,15,0,15,0.67
+ORD-1145,2022-05-10,Corporate,Central,Colorado,Office Supplies,Printer Paper,4,25,0.3,70.0,9.71
+ORD-1146,2023-09-12,Consumer,South,Tennessee,Technology,iPhone 14,5,799,0,3995,373.66
+ORD-1147,2022-12-14,Home Office,South,Tennessee,Furniture,Sofa,1,599,0.1,539.1,49.62
+ORD-1148,2023-01-19,Consumer,East,Florida,Office Supplies,Stapler,1,15,0,15,4.11
+ORD-1149,2022-04-09,Home Office,Central,Texas,Technology,iPhone 14,5,799,0.3,2796.5,427.19
+ORD-1150,2023-02-25,Corporate,Central,Texas,Office Supplies,Stapler,1,15,0.1,13.5,2.3
+ORD-1151,2023-08-15,Home Office,East,Florida,Technology,"Monitor 27""",2,299,0,598,34.42
+ORD-1152,2022-04-28,Home Office,Central,Colorado,Office Supplies,Pen Set,4,12,0.3,33.6,11.38
+ORD-1153,2023-11-23,Corporate,West,Washington,Office Supplies,Printer Paper,1,25,0,25,0.57
+ORD-1154,2022-12-26,Home Office,West,Arizona,Technology,Laptop HP,5,999,0.2,3996.0,-274.47
+ORD-1155,2022-02-01,Consumer,West,Washington,Office Supplies,Pen Set,4,12,0.2,38.4,4.0
+ORD-1156,2022-11-16,Home Office,Central,Texas,Office Supplies,Notebook Pack,1,19,0,19,-0.55
+ORD-1157,2023-11-22,Corporate,West,Washington,Furniture,Sofa,4,599,0.2,1916.8,331.96
+ORD-1158,2022-08-09,Home Office,West,Washington,Furniture,Sofa,1,599,0.1,539.1,110.62
+ORD-1159,2023-06-24,Consumer,Central,Illinois,Technology,Laptop HP,4,999,0.3,2797.2,-210.76
+ORD-1160,2022-08-05,Home Office,East,Florida,Furniture,Bookshelf,3,149,0,447,-43.15
+ORD-1161,2022-06-29,Corporate,East,New York,Furniture,Study Table,5,249,0.3,871.5,239.67
+ORD-1162,2023-02-11,Home Office,West,Washington,Furniture,Office Chair,4,199,0,796,229.21
+ORD-1163,2023-08-11,Corporate,South,Georgia,Office Supplies,Stapler,3,15,0,45,3.7
+ORD-1164,2023-09-25,Consumer,South,Tennessee,Office Supplies,Printer Paper,1,25,0.2,20.0,5.6
+ORD-1165,2023-08-27,Consumer,South,Tennessee,Office Supplies,Notebook Pack,4,19,0.1,68.4,16.12
+ORD-1166,2022-06-22,Corporate,West,Washington,Office Supplies,Notebook Pack,5,19,0.3,66.5,-0.85
+ORD-1167,2023-10-23,Home Office,East,New York,Technology,iPhone 14,2,799,0.1,1438.2,-16.15
+ORD-1168,2023-11-03,Corporate,West,Arizona,Technology,"Monitor 27""",4,299,0.3,837.2,202.56
+ORD-1169,2023-08-02,Corporate,Central,Colorado,Office Supplies,Printer Paper,2,25,0.2,40.0,-2.77
+ORD-1170,2022-11-07,Corporate,Central,Illinois,Office Supplies,Notebook Pack,3,19,0.3,39.9,-2.66
+ORD-1171,2022-02-08,Home Office,West,Washington,Furniture,Bookshelf,1,149,0,149,26.34
+ORD-1172,2023-04-19,Consumer,West,California,Furniture,Study Table,3,249,0.3,522.9,59.63
+ORD-1173,2023-04-07,Home Office,West,Washington,Furniture,Office Chair,5,199,0,995,-81.97
+ORD-1174,2023-03-26,Corporate,East,Ohio,Furniture,Bookshelf,3,149,0.2,357.6,30.02
+ORD-1175,2023-09-05,Home Office,West,Washington,Office Supplies,Printer Paper,1,25,0.1,22.5,-1.29
+ORD-1176,2022-10-18,Consumer,Central,Illinois,Office Supplies,Pen Set,3,12,0,36,5.84
+ORD-1177,2022-11-14,Corporate,South,Georgia,Technology,iPhone 14,3,799,0.3,1677.9,116.62
+ORD-1178,2023-11-18,Corporate,West,California,Office Supplies,Stapler,5,15,0.1,67.5,-6.2
+ORD-1179,2022-08-08,Corporate,Central,Texas,Furniture,Study Table,2,249,0,498,-15.08
+ORD-1180,2023-06-04,Consumer,West,California,Office Supplies,Printer Paper,5,25,0,125,21.1
+ORD-1181,2022-07-05,Home Office,East,New York,Office Supplies,Stapler,1,15,0.2,12.0,0.77
+ORD-1182,2023-03-31,Corporate,Central,Texas,Office Supplies,Stapler,2,15,0.3,21.0,0.16
+ORD-1183,2023-01-12,Consumer,South,Georgia,Furniture,Bookshelf,4,149,0.3,417.2,57.31
+ORD-1184,2023-09-12,Consumer,East,Ohio,Furniture,Office Chair,4,199,0.1,716.4,107.13
+ORD-1185,2023-06-13,Home Office,West,California,Furniture,Office Chair,2,199,0.1,358.2,36.61
+ORD-1186,2023-03-24,Corporate,West,Arizona,Technology,"Monitor 27""",3,299,0,897,77.77
+ORD-1187,2023-01-18,Consumer,East,Ohio,Furniture,Office Chair,3,199,0,597,-52.13
+ORD-1188,2023-10-28,Corporate,Central,Colorado,Technology,Laptop HP,1,999,0.1,899.1,281.26
+ORD-1189,2022-05-23,Consumer,South,Alabama,Furniture,Office Chair,1,199,0,199,3.02
+ORD-1190,2023-09-16,Consumer,South,Tennessee,Technology,Headphones,2,129,0.1,232.2,-10.49
+ORD-1191,2023-10-17,Home Office,South,Alabama,Technology,iPhone 14,4,799,0.3,2237.2,315.95
+ORD-1192,2023-08-12,Corporate,East,New York,Office Supplies,Pen Set,3,12,0.2,28.8,-2.86
+ORD-1193,2023-08-08,Home Office,South,Alabama,Technology,iPhone 14,5,799,0.1,3595.5,-250.05
+ORD-1194,2023-06-04,Corporate,West,Arizona,Furniture,Sofa,1,599,0.2,479.2,163.63
+ORD-1195,2022-01-17,Home Office,Central,Illinois,Technology,Headphones,2,129,0,258,63.77
+ORD-1196,2022-05-17,Corporate,West,Arizona,Furniture,Bookshelf,2,149,0.2,238.4,81.38
+ORD-1197,2022-07-06,Consumer,East,New York,Technology,"Monitor 27""",1,299,0.1,269.1,-2.5
+ORD-1198,2022-11-20,Home Office,Central,Texas,Office Supplies,Stapler,5,15,0.2,60.0,0.84
+ORD-1199,2022-10-20,Corporate,Central,Illinois,Technology,Headphones,3,129,0,387,100.51
+ORD-1200,2023-03-27,Home Office,South,Tennessee,Furniture,Study Table,4,249,0.2,796.8,52.04
+ORD-1201,2022-03-26,Corporate,South,Georgia,Technology,"Monitor 27""",5,299,0,1495,217.47
+ORD-1202,2022-03-23,Corporate,Central,Texas,Office Supplies,Printer Paper,3,25,0.2,60.0,10.27
+ORD-1203,2023-03-31,Corporate,Central,Colorado,Furniture,Office Chair,3,199,0.3,417.9,145.92
+ORD-1204,2022-02-28,Home Office,West,California,Office Supplies,Stapler,3,15,0.3,31.5,8.21
+ORD-1205,2022-02-01,Home Office,East,Florida,Office Supplies,Stapler,1,15,0,15,-1.05
+ORD-1206,2023-01-06,Corporate,South,Tennessee,Office Supplies,Notebook Pack,5,19,0,95,19.53
+ORD-1207,2023-03-31,Home Office,West,Washington,Office Supplies,Pen Set,5,12,0.1,54.0,4.27
+ORD-1208,2022-09-13,Home Office,West,California,Technology,Laptop HP,4,999,0.3,2797.2,207.4
+ORD-1209,2022-09-26,Corporate,Central,Texas,Office Supplies,Stapler,2,15,0.3,21.0,0.6
+ORD-1210,2022-05-06,Home Office,East,Florida,Technology,"Monitor 27""",2,299,0.2,478.4,166.85
+ORD-1211,2023-11-15,Corporate,Central,Texas,Office Supplies,Notebook Pack,5,19,0.3,66.5,2.04
+ORD-1212,2023-10-16,Consumer,East,Florida,Furniture,Study Table,1,249,0,249,63.85
+ORD-1213,2022-01-27,Consumer,Central,Texas,Office Supplies,Printer Paper,4,25,0.3,70.0,-2.91
+ORD-1214,2022-11-13,Home Office,South,Georgia,Office Supplies,Stapler,5,15,0.2,60.0,14.77
+ORD-1215,2022-05-09,Corporate,Central,Texas,Office Supplies,Notebook Pack,4,19,0.2,60.8,12.53
+ORD-1216,2023-07-19,Home Office,East,New York,Technology,"Monitor 27""",5,299,0,1495,409.82
+ORD-1217,2022-11-08,Home Office,East,Florida,Technology,Headphones,2,129,0.1,232.2,75.78
+ORD-1218,2022-03-22,Consumer,Central,Colorado,Technology,Headphones,2,129,0.1,232.2,40.98
+ORD-1219,2023-10-19,Home Office,East,Florida,Office Supplies,Pen Set,2,12,0.3,16.8,3.77
+ORD-1220,2023-08-01,Consumer,West,Arizona,Technology,iPhone 14,1,799,0.3,559.3,10.68
+ORD-1221,2023-03-03,Home Office,West,Washington,Furniture,Bookshelf,3,149,0.2,357.6,3.65
+ORD-1222,2022-11-01,Corporate,South,Georgia,Technology,iPhone 14,2,799,0.2,1278.4,111.26
+ORD-1223,2022-12-15,Corporate,East,Ohio,Furniture,Bookshelf,3,149,0.2,357.6,-14.72
+ORD-1224,2023-07-30,Consumer,West,California,Furniture,Study Table,4,249,0,996,20.28
+ORD-1225,2022-04-10,Consumer,West,Washington,Furniture,Sofa,5,599,0.2,2396.0,28.09
+ORD-1226,2023-08-15,Corporate,Central,Illinois,Technology,Laptop HP,4,999,0.3,2797.2,307.88
+ORD-1227,2022-01-24,Consumer,West,California,Furniture,Sofa,2,599,0,1198,194.68
+ORD-1228,2022-10-16,Consumer,South,Tennessee,Office Supplies,Stapler,3,15,0.3,31.5,-3.03
+ORD-1229,2022-05-18,Consumer,Central,Colorado,Office Supplies,Printer Paper,4,25,0.1,90.0,-7.17
+ORD-1230,2023-07-30,Home Office,East,Florida,Furniture,Bookshelf,1,149,0.2,119.2,15.13
+ORD-1231,2023-10-01,Corporate,West,Arizona,Technology,iPhone 14,4,799,0.1,2876.4,741.26
+ORD-1232,2023-01-10,Consumer,East,Ohio,Technology,"Monitor 27""",5,299,0,1495,-119.02
+ORD-1233,2022-12-08,Consumer,South,Tennessee,Office Supplies,Stapler,2,15,0.3,21.0,6.34
+ORD-1234,2023-09-20,Home Office,Central,Colorado,Technology,"Monitor 27""",5,299,0.1,1345.5,224.94
+ORD-1235,2023-06-30,Home Office,South,Georgia,Office Supplies,Printer Paper,4,25,0,100,6.58
+ORD-1236,2023-03-03,Home Office,Central,Colorado,Office Supplies,Notebook Pack,5,19,0.2,76.0,1.48
+ORD-1237,2023-08-15,Home Office,East,Ohio,Office Supplies,Notebook Pack,5,19,0.2,76.0,-1.77
+ORD-1238,2023-09-27,Consumer,South,Georgia,Technology,Laptop HP,1,999,0.3,699.3,228.46
+ORD-1239,2022-01-20,Corporate,South,Alabama,Furniture,Sofa,2,599,0.2,958.4,201.96
+ORD-1240,2023-09-19,Corporate,South,Alabama,Office Supplies,Notebook Pack,2,19,0.3,26.6,-0.18
+ORD-1241,2023-05-05,Corporate,South,Alabama,Furniture,Study Table,4,249,0.3,697.2,37.68
+ORD-1242,2023-11-29,Corporate,Central,Texas,Office Supplies,Stapler,2,15,0,30,0.77
+ORD-1243,2022-11-01,Home Office,Central,Colorado,Office Supplies,Pen Set,4,12,0.1,43.2,5.01
+ORD-1244,2022-10-08,Consumer,Central,Illinois,Technology,"Monitor 27""",4,299,0.1,1076.4,354.75
+ORD-1245,2022-02-13,Home Office,Central,Illinois,Office Supplies,Notebook Pack,3,19,0.2,45.6,8.9
+ORD-1246,2022-08-08,Home Office,East,Ohio,Office Supplies,Printer Paper,5,25,0.1,112.5,-4.3
+ORD-1247,2023-08-24,Consumer,East,New York,Technology,iPhone 14,5,799,0,3995,747.36
+ORD-1248,2023-02-28,Home Office,Central,Texas,Office Supplies,Stapler,1,15,0,15,-1.47
+ORD-1249,2023-02-21,Consumer,South,Georgia,Furniture,Study Table,3,249,0.1,672.3,19.12
+ORD-1250,2023-10-30,Consumer,East,New York,Office Supplies,Notebook Pack,2,19,0.2,30.4,9.03
+ORD-1251,2023-02-11,Home Office,South,Georgia,Technology,Headphones,1,129,0,129,4.42
+ORD-1252,2022-12-10,Consumer,Central,Texas,Furniture,Sofa,2,599,0.3,838.6,92.76
+ORD-1253,2022-12-05,Corporate,East,Florida,Office Supplies,Stapler,3,15,0,45,-4.21
+ORD-1254,2023-08-05,Corporate,East,Ohio,Technology,"Monitor 27""",4,299,0.3,837.2,39.82
+ORD-1255,2022-04-08,Corporate,East,New York,Technology,"Monitor 27""",3,299,0,897,-86.94
+ORD-1256,2023-04-03,Home Office,Central,Illinois,Furniture,Bookshelf,5,149,0.3,521.5,-49.47
+ORD-1257,2022-08-30,Home Office,West,Arizona,Office Supplies,Notebook Pack,4,19,0.1,68.4,-1.92
+ORD-1258,2022-11-15,Consumer,West,Washington,Office Supplies,Printer Paper,3,25,0.3,52.5,-0.03
+ORD-1259,2022-06-06,Home Office,South,Alabama,Office Supplies,Printer Paper,4,25,0.3,70.0,21.75
+ORD-1260,2022-08-12,Corporate,East,New York,Office Supplies,Notebook Pack,5,19,0.2,76.0,10.46
+ORD-1261,2023-08-01,Corporate,West,Arizona,Technology,Laptop HP,5,999,0.3,3496.5,-113.87
+ORD-1262,2023-03-29,Home Office,West,Washington,Office Supplies,Pen Set,5,12,0.2,48.0,-2.84
+ORD-1263,2022-02-26,Corporate,South,Alabama,Technology,"Monitor 27""",4,299,0.3,837.2,-61.97
+ORD-1264,2022-11-12,Consumer,West,Washington,Furniture,Bookshelf,1,149,0,149,23.88
+ORD-1265,2022-12-19,Corporate,West,California,Office Supplies,Notebook Pack,1,19,0.2,15.2,-1.3
+ORD-1266,2022-05-19,Home Office,South,Alabama,Furniture,Sofa,4,599,0.2,1916.8,132.34
+ORD-1267,2023-07-07,Corporate,East,Ohio,Office Supplies,Printer Paper,1,25,0,25,8.67
+ORD-1268,2022-05-11,Home Office,East,Florida,Technology,iPhone 14,3,799,0.2,1917.6,389.42
+ORD-1269,2023-06-29,Consumer,South,Alabama,Technology,Laptop HP,4,999,0.1,3596.4,-108.59
+ORD-1270,2022-04-26,Consumer,West,California,Office Supplies,Stapler,5,15,0,75,0.62
+ORD-1271,2023-09-01,Consumer,West,Arizona,Furniture,Office Chair,2,199,0,398,32.25
+ORD-1272,2022-08-11,Home Office,West,Arizona,Technology,Headphones,2,129,0.3,180.6,7.86
+ORD-1273,2022-11-25,Corporate,East,New York,Furniture,Study Table,5,249,0,1245,107.2
+ORD-1274,2023-07-25,Corporate,East,Ohio,Office Supplies,Stapler,5,15,0.2,60.0,-4.73
+ORD-1275,2023-11-19,Corporate,South,Georgia,Office Supplies,Printer Paper,4,25,0.2,80.0,-2.63
+ORD-1276,2023-07-05,Consumer,South,Alabama,Technology,Laptop HP,3,999,0,2997,787.01
+ORD-1277,2023-02-27,Corporate,South,Alabama,Office Supplies,Pen Set,4,12,0,48,0.71
+ORD-1278,2022-03-22,Corporate,South,Alabama,Furniture,Office Chair,5,199,0,995,-76.42
+ORD-1279,2023-09-12,Consumer,West,Washington,Technology,Laptop HP,5,999,0.3,3496.5,-8.19
+ORD-1280,2022-11-07,Home Office,West,Arizona,Technology,Laptop HP,1,999,0.2,799.2,248.95
+ORD-1281,2022-07-29,Home Office,South,Tennessee,Technology,Headphones,3,129,0.2,309.6,34.0
+ORD-1282,2022-11-12,Home Office,Central,Illinois,Furniture,Sofa,4,599,0,2396,626.0
+ORD-1283,2022-11-24,Consumer,East,Ohio,Furniture,Bookshelf,4,149,0,596,91.27
+ORD-1284,2022-05-30,Consumer,West,Washington,Furniture,Sofa,3,599,0,1797,-21.05
+ORD-1285,2023-08-07,Home Office,East,Ohio,Furniture,Bookshelf,3,149,0.2,357.6,119.77
+ORD-1286,2023-05-18,Corporate,South,Georgia,Technology,Headphones,2,129,0,258,57.83
+ORD-1287,2023-07-10,Corporate,West,California,Office Supplies,Notebook Pack,1,19,0,19,4.64
+ORD-1288,2023-10-08,Corporate,East,New York,Technology,Laptop HP,1,999,0,999,127.45
+ORD-1289,2023-09-25,Corporate,South,Georgia,Office Supplies,Stapler,1,15,0,15,2.09
+ORD-1290,2022-01-18,Home Office,Central,Illinois,Office Supplies,Printer Paper,1,25,0.3,17.5,4.65
+ORD-1291,2022-07-03,Corporate,West,Washington,Technology,Laptop HP,2,999,0,1998,357.44
+ORD-1292,2022-10-01,Home Office,South,Georgia,Technology,Headphones,4,129,0.2,412.8,63.67
+ORD-1293,2022-11-04,Home Office,West,Washington,Office Supplies,Notebook Pack,1,19,0.2,15.2,1.07
+ORD-1294,2022-02-27,Home Office,West,Washington,Office Supplies,Pen Set,1,12,0.2,9.6,2.69
+ORD-1295,2023-08-03,Home Office,West,Arizona,Office Supplies,Notebook Pack,2,19,0,38,11.61
+ORD-1296,2023-05-02,Consumer,Central,Texas,Technology,iPhone 14,3,799,0.3,1677.9,257.69
+ORD-1297,2022-11-19,Home Office,West,California,Technology,Laptop HP,4,999,0,3996,138.56
+ORD-1298,2023-08-04,Home Office,South,Alabama,Office Supplies,Printer Paper,4,25,0,100,25.57
+ORD-1299,2022-03-22,Corporate,Central,Colorado,Technology,iPhone 14,4,799,0,3196,886.58
+ORD-1300,2023-09-21,Corporate,South,Alabama,Furniture,Office Chair,3,199,0.2,477.6,57.68
+ORD-1301,2023-01-20,Consumer,South,Alabama,Technology,"Monitor 27""",1,299,0.3,209.3,6.89
+ORD-1302,2022-03-17,Corporate,West,Washington,Furniture,Study Table,4,249,0,996,231.91
+ORD-1303,2022-04-20,Consumer,West,California,Technology,Headphones,4,129,0.1,464.4,112.67
+ORD-1304,2022-03-31,Consumer,East,New York,Furniture,Sofa,5,599,0.3,2096.5,273.8
+ORD-1305,2022-04-02,Corporate,Central,Texas,Office Supplies,Notebook Pack,5,19,0.3,66.5,16.82
+ORD-1306,2022-10-26,Consumer,South,Alabama,Furniture,Office Chair,5,199,0,995,156.6
+ORD-1307,2023-01-25,Consumer,East,New York,Technology,Headphones,3,129,0.1,348.3,42.46
+ORD-1308,2023-03-22,Consumer,Central,Colorado,Furniture,Bookshelf,4,149,0,596,37.25
+ORD-1309,2023-10-03,Consumer,South,Tennessee,Office Supplies,Pen Set,4,12,0,48,-1.87
+ORD-1310,2022-12-07,Home Office,South,Alabama,Furniture,Sofa,3,599,0.2,1437.6,383.79
+ORD-1311,2022-05-20,Corporate,Central,Illinois,Furniture,Study Table,4,249,0.1,896.4,-17.98
+ORD-1312,2022-10-26,Corporate,South,Tennessee,Office Supplies,Pen Set,3,12,0.2,28.8,0.75
+ORD-1313,2022-04-27,Corporate,East,Ohio,Office Supplies,Pen Set,5,12,0,60,19.73
+ORD-1314,2022-08-03,Corporate,South,Georgia,Furniture,Office Chair,4,199,0.2,636.8,-23.8
+ORD-1315,2022-09-16,Home Office,East,Florida,Office Supplies,Stapler,4,15,0,60,6.12
+ORD-1316,2023-08-20,Corporate,South,Alabama,Office Supplies,Stapler,5,15,0,75,19.19
+ORD-1317,2023-07-04,Consumer,West,Arizona,Technology,Laptop HP,3,999,0,2997,572.88
+ORD-1318,2023-10-23,Consumer,South,Alabama,Furniture,Sofa,1,599,0,599,-33.32
+ORD-1319,2023-06-16,Home Office,East,Ohio,Furniture,Bookshelf,4,149,0.2,476.8,118.03
+ORD-1320,2023-05-28,Consumer,East,New York,Furniture,Office Chair,4,199,0,796,26.22
+ORD-1321,2022-05-26,Corporate,Central,Illinois,Furniture,Bookshelf,4,149,0,596,80.16
+ORD-1322,2022-04-10,Home Office,South,Georgia,Office Supplies,Stapler,3,15,0,45,1.58
+ORD-1323,2022-01-24,Home Office,Central,Texas,Office Supplies,Notebook Pack,2,19,0,38,5.02
+ORD-1324,2022-12-05,Home Office,South,Tennessee,Furniture,Study Table,4,249,0,996,-16.06
+ORD-1325,2023-02-10,Consumer,West,Arizona,Office Supplies,Pen Set,4,12,0.3,33.6,3.13
+ORD-1326,2022-08-08,Home Office,East,New York,Furniture,Office Chair,5,199,0,995,258.48
+ORD-1327,2023-01-10,Corporate,Central,Colorado,Technology,"Monitor 27""",1,299,0.1,269.1,54.31
+ORD-1328,2023-10-17,Corporate,Central,Illinois,Office Supplies,Stapler,5,15,0.2,60.0,9.85
+ORD-1329,2023-04-14,Consumer,East,Florida,Office Supplies,Printer Paper,5,25,0.3,87.5,-5.41
+ORD-1330,2022-05-01,Home Office,East,Florida,Furniture,Office Chair,2,199,0.1,358.2,75.96
+ORD-1331,2023-03-05,Home Office,East,Ohio,Office Supplies,Stapler,4,15,0,60,7.14
+ORD-1332,2023-10-23,Corporate,East,Florida,Office Supplies,Pen Set,4,12,0.1,43.2,-1.59
+ORD-1333,2023-09-27,Corporate,West,Arizona,Furniture,Office Chair,4,199,0,796,-9.7
+ORD-1334,2023-06-02,Consumer,South,Alabama,Furniture,Sofa,4,599,0.2,1916.8,229.85
+ORD-1335,2022-02-01,Consumer,East,Florida,Furniture,Office Chair,3,199,0,597,84.73
+ORD-1336,2023-08-03,Home Office,South,Tennessee,Office Supplies,Notebook Pack,5,19,0,95,1.95
+ORD-1337,2023-07-10,Consumer,West,Arizona,Office Supplies,Stapler,5,15,0,75,25.9
+ORD-1338,2023-11-01,Consumer,East,Florida,Furniture,Office Chair,4,199,0.1,716.4,40.73
+ORD-1339,2022-05-01,Consumer,East,New York,Technology,Headphones,5,129,0.2,516.0,-13.06
+ORD-1340,2022-07-31,Consumer,West,Washington,Office Supplies,Printer Paper,5,25,0.1,112.5,18.97
+ORD-1341,2022-10-27,Corporate,Central,Texas,Office Supplies,Printer Paper,5,25,0,125,-4.87
+ORD-1342,2022-10-11,Consumer,East,Ohio,Office Supplies,Pen Set,2,12,0,24,5.28
+ORD-1343,2023-02-07,Home Office,South,Georgia,Technology,Headphones,4,129,0.2,412.8,42.68
+ORD-1344,2023-02-17,Consumer,Central,Colorado,Office Supplies,Printer Paper,4,25,0.2,80.0,3.78
+ORD-1345,2022-04-06,Corporate,South,Georgia,Office Supplies,Printer Paper,1,25,0.3,17.5,1.38
+ORD-1346,2023-05-22,Home Office,Central,Illinois,Furniture,Bookshelf,3,149,0.3,312.9,50.09
+ORD-1347,2022-12-18,Consumer,West,Washington,Technology,iPhone 14,4,799,0,3196,-140.92
+ORD-1348,2023-04-13,Corporate,West,California,Furniture,Study Table,2,249,0.1,448.2,-12.76
+ORD-1349,2023-11-02,Home Office,Central,Illinois,Furniture,Office Chair,3,199,0,597,-45.79
+ORD-1350,2022-08-28,Consumer,South,Georgia,Office Supplies,Notebook Pack,1,19,0,19,-0.08
+ORD-1351,2023-08-31,Consumer,East,Florida,Office Supplies,Stapler,1,15,0,15,3.2
+ORD-1352,2022-05-16,Consumer,South,Georgia,Technology,Laptop HP,4,999,0,3996,914.46
+ORD-1353,2022-11-17,Home Office,Central,Texas,Furniture,Study Table,4,249,0,996,187.95
+ORD-1354,2022-03-12,Home Office,West,Arizona,Office Supplies,Pen Set,4,12,0.1,43.2,9.72
+ORD-1355,2022-06-05,Consumer,South,Georgia,Office Supplies,Stapler,2,15,0,30,9.1
+ORD-1356,2023-08-27,Home Office,South,Georgia,Furniture,Sofa,3,599,0,1797,20.67
+ORD-1357,2022-09-12,Home Office,Central,Texas,Office Supplies,Notebook Pack,3,19,0,57,7.58
+ORD-1358,2023-02-06,Consumer,Central,Illinois,Office Supplies,Notebook Pack,2,19,0.2,30.4,2.24
+ORD-1359,2023-10-16,Home Office,West,Washington,Office Supplies,Notebook Pack,3,19,0.1,51.3,-2.08
+ORD-1360,2023-01-10,Corporate,East,New York,Furniture,Office Chair,1,199,0.3,139.3,-9.7
+ORD-1361,2022-02-10,Corporate,West,California,Furniture,Bookshelf,5,149,0.2,596.0,54.0
+ORD-1362,2023-10-18,Consumer,East,New York,Furniture,Office Chair,3,199,0,597,77.66
+ORD-1363,2023-07-04,Consumer,Central,Texas,Furniture,Office Chair,3,199,0.2,477.6,109.12
+ORD-1364,2022-09-08,Corporate,West,Arizona,Furniture,Office Chair,4,199,0.3,557.2,96.94
+ORD-1365,2023-11-05,Corporate,East,Ohio,Technology,iPhone 14,2,799,0,1598,-41.99
+ORD-1366,2023-06-14,Consumer,Central,Texas,Technology,Headphones,2,129,0.1,232.2,53.36
+ORD-1367,2022-12-10,Corporate,South,Tennessee,Furniture,Office Chair,3,199,0.3,417.9,76.22
+ORD-1368,2023-06-08,Corporate,Central,Texas,Technology,"Monitor 27""",5,299,0,1495,97.86
+ORD-1369,2023-08-11,Corporate,West,Washington,Technology,iPhone 14,1,799,0,799,8.03
+ORD-1370,2023-01-28,Consumer,East,Florida,Technology,iPhone 14,5,799,0.2,3196.0,3.3
+ORD-1371,2022-11-24,Consumer,Central,Texas,Technology,Headphones,1,129,0.3,90.3,18.33
+ORD-1372,2022-08-17,Corporate,West,Washington,Furniture,Office Chair,4,199,0.1,716.4,177.73
+ORD-1373,2022-03-30,Corporate,South,Alabama,Technology,Headphones,2,129,0.1,232.2,35.69
+ORD-1374,2023-09-30,Consumer,East,Ohio,Furniture,Bookshelf,5,149,0.2,596.0,208.01
+ORD-1375,2023-07-14,Corporate,East,Ohio,Technology,iPhone 14,4,799,0,3196,15.5
+ORD-1376,2022-01-10,Consumer,Central,Illinois,Technology,"Monitor 27""",3,299,0,897,-6.87
+ORD-1377,2023-05-19,Home Office,West,Washington,Technology,Headphones,1,129,0,129,40.58
+ORD-1378,2023-01-17,Home Office,South,Tennessee,Office Supplies,Notebook Pack,5,19,0,95,12.11
+ORD-1379,2022-03-18,Corporate,West,Washington,Furniture,Study Table,2,249,0.1,448.2,7.82
+ORD-1380,2022-12-01,Consumer,Central,Colorado,Furniture,Bookshelf,2,149,0,298,96.73
+ORD-1381,2022-04-22,Consumer,East,Ohio,Technology,Laptop HP,4,999,0.2,3196.8,132.08
+ORD-1382,2023-01-02,Consumer,East,New York,Furniture,Bookshelf,4,149,0.1,536.4,152.13
+ORD-1383,2022-11-08,Corporate,West,Washington,Technology,Headphones,2,129,0,258,56.77
+ORD-1384,2023-06-10,Corporate,West,Washington,Office Supplies,Printer Paper,3,25,0,75,-6.45
+ORD-1385,2023-07-24,Consumer,East,New York,Technology,"Monitor 27""",1,299,0,299,-13.56
+ORD-1386,2022-05-14,Consumer,East,New York,Furniture,Bookshelf,1,149,0.3,104.3,17.08
+ORD-1387,2022-03-08,Corporate,East,New York,Office Supplies,Stapler,2,15,0,30,9.22
+ORD-1388,2022-02-13,Corporate,South,Tennessee,Technology,Laptop HP,5,999,0.2,3996.0,1077.95
+ORD-1389,2022-01-31,Consumer,South,Tennessee,Office Supplies,Stapler,2,15,0.1,27.0,-0.09
+ORD-1390,2022-10-14,Home Office,South,Tennessee,Technology,iPhone 14,5,799,0.3,2796.5,496.77
+ORD-1391,2023-05-26,Consumer,South,Tennessee,Office Supplies,Stapler,1,15,0,15,0.39
+ORD-1392,2022-07-24,Corporate,East,Florida,Office Supplies,Notebook Pack,4,19,0.1,68.4,7.92
+ORD-1393,2023-08-03,Consumer,Central,Texas,Furniture,Bookshelf,2,149,0,298,12.96
+ORD-1394,2022-10-15,Consumer,West,California,Furniture,Bookshelf,5,149,0,745,252.03
+ORD-1395,2023-11-04,Corporate,East,Florida,Furniture,Office Chair,2,199,0.3,278.6,78.27
+ORD-1396,2022-06-27,Home Office,East,Florida,Technology,Headphones,3,129,0.3,270.9,-23.65
+ORD-1397,2023-08-05,Corporate,East,New York,Office Supplies,Pen Set,4,12,0.3,33.6,1.31
+ORD-1398,2022-04-03,Corporate,West,Arizona,Technology,Laptop HP,1,999,0.3,699.3,80.49
+ORD-1399,2022-07-26,Home Office,East,Ohio,Furniture,Study Table,3,249,0,747,-67.33
+ORD-1400,2022-05-26,Home Office,West,Washington,Office Supplies,Printer Paper,1,25,0.1,22.5,4.88
+ORD-1401,2023-08-24,Home Office,West,Washington,Furniture,Bookshelf,3,149,0,447,151.59
+ORD-1402,2023-10-17,Home Office,South,Tennessee,Office Supplies,Printer Paper,2,25,0.3,35.0,7.42
+ORD-1403,2022-08-17,Consumer,East,Ohio,Furniture,Bookshelf,3,149,0,447,-8.95
+ORD-1404,2023-08-10,Home Office,South,Georgia,Office Supplies,Notebook Pack,2,19,0.3,26.6,1.15
+ORD-1405,2023-10-17,Corporate,West,California,Furniture,Study Table,3,249,0,747,5.3
+ORD-1406,2023-10-14,Consumer,West,Arizona,Office Supplies,Printer Paper,4,25,0,100,1.93
+ORD-1407,2022-03-11,Home Office,Central,Illinois,Furniture,Office Chair,1,199,0,199,14.66
+ORD-1408,2022-06-20,Corporate,South,Alabama,Furniture,Sofa,3,599,0.3,1257.9,86.68
+ORD-1409,2023-10-29,Corporate,East,Florida,Technology,"Monitor 27""",1,299,0,299,9.78
+ORD-1410,2022-04-18,Home Office,West,California,Furniture,Study Table,4,249,0,996,228.48
+ORD-1411,2022-12-13,Corporate,South,Georgia,Office Supplies,Notebook Pack,4,19,0,76,13.17
+ORD-1412,2022-02-24,Home Office,West,Arizona,Furniture,Study Table,2,249,0.2,398.4,85.15
+ORD-1413,2023-07-08,Corporate,Central,Colorado,Office Supplies,Printer Paper,3,25,0,75,-4.26
+ORD-1414,2023-07-17,Corporate,South,Alabama,Technology,iPhone 14,3,799,0,2397,221.54
+ORD-1415,2023-10-03,Corporate,South,Georgia,Technology,iPhone 14,1,799,0,799,-18.48
+ORD-1416,2023-04-30,Corporate,West,California,Furniture,Sofa,4,599,0.2,1916.8,580.21
+ORD-1417,2023-10-20,Consumer,South,Tennessee,Technology,Headphones,4,129,0.1,464.4,-7.45
+ORD-1418,2023-03-27,Home Office,South,Alabama,Furniture,Study Table,3,249,0.3,522.9,-37.79
+ORD-1419,2022-04-10,Home Office,West,California,Office Supplies,Printer Paper,5,25,0.2,100.0,33.68
+ORD-1420,2023-07-21,Consumer,West,Washington,Furniture,Sofa,5,599,0.2,2396.0,377.9
+ORD-1421,2022-11-03,Home Office,West,Arizona,Furniture,Office Chair,5,199,0.3,696.5,212.58
+ORD-1422,2023-09-28,Consumer,East,New York,Technology,"Monitor 27""",2,299,0,598,201.81
+ORD-1423,2022-02-13,Corporate,South,Tennessee,Technology,"Monitor 27""",2,299,0,598,164.66
+ORD-1424,2022-03-10,Home Office,West,Washington,Furniture,Sofa,5,599,0.1,2695.5,769.51
+ORD-1425,2022-01-13,Home Office,South,Georgia,Technology,"Monitor 27""",2,299,0,598,92.67
+ORD-1426,2022-04-19,Corporate,West,Arizona,Furniture,Bookshelf,4,149,0.1,536.4,38.82
+ORD-1427,2023-09-16,Home Office,South,Alabama,Technology,Laptop HP,3,999,0.2,2397.6,-84.55
+ORD-1428,2023-02-16,Corporate,West,Washington,Furniture,Bookshelf,2,149,0,298,70.21
+ORD-1429,2022-01-21,Home Office,Central,Texas,Furniture,Bookshelf,3,149,0.2,357.6,102.35
+ORD-1430,2022-08-22,Home Office,East,Ohio,Furniture,Sofa,3,599,0.1,1617.3,368.68
+ORD-1431,2022-04-02,Corporate,East,New York,Furniture,Study Table,4,249,0.2,796.8,192.64
+ORD-1432,2023-06-12,Home Office,East,Ohio,Technology,Headphones,5,129,0.2,516.0,-20.1
+ORD-1433,2022-01-30,Consumer,East,Florida,Technology,Laptop HP,1,999,0,999,-85.03
+ORD-1434,2022-07-23,Consumer,Central,Colorado,Furniture,Sofa,5,599,0.2,2396.0,445.5
+ORD-1435,2022-02-01,Corporate,East,Ohio,Furniture,Sofa,5,599,0.2,2396.0,-48.13
+ORD-1436,2023-07-19,Corporate,Central,Texas,Furniture,Study Table,3,249,0,747,21.13
+ORD-1437,2022-06-16,Home Office,East,New York,Technology,Laptop HP,2,999,0.1,1798.2,347.44
+ORD-1438,2023-11-30,Consumer,West,Washington,Furniture,Study Table,2,249,0.3,348.6,90.77
+ORD-1439,2023-09-15,Corporate,Central,Illinois,Office Supplies,Printer Paper,4,25,0.2,80.0,22.66
+ORD-1440,2022-08-12,Home Office,South,Tennessee,Furniture,Sofa,5,599,0,2995,-289.6
+ORD-1441,2023-07-29,Corporate,Central,Colorado,Furniture,Office Chair,4,199,0,796,40.86
+ORD-1442,2022-11-29,Consumer,Central,Texas,Furniture,Bookshelf,2,149,0,298,39.57
+ORD-1443,2023-09-07,Corporate,South,Tennessee,Office Supplies,Printer Paper,2,25,0,50,9.75
+ORD-1444,2023-03-05,Corporate,South,Alabama,Furniture,Office Chair,5,199,0.3,696.5,186.11
+ORD-1445,2022-08-16,Home Office,South,Alabama,Office Supplies,Printer Paper,5,25,0.1,112.5,31.55
+ORD-1446,2022-07-05,Home Office,Central,Texas,Technology,"Monitor 27""",2,299,0.1,538.2,121.81
+ORD-1447,2023-11-28,Corporate,Central,Illinois,Office Supplies,Notebook Pack,2,19,0.1,34.2,0.02
+ORD-1448,2022-12-06,Home Office,Central,Colorado,Furniture,Bookshelf,4,149,0,596,66.6
+ORD-1449,2023-08-18,Corporate,West,Arizona,Furniture,Study Table,5,249,0,1245,361.52
+ORD-1450,2022-11-02,Home Office,South,Tennessee,Technology,Laptop HP,2,999,0,1998,108.29
+ORD-1451,2022-05-27,Consumer,Central,Illinois,Office Supplies,Pen Set,1,12,0.2,9.6,0.48
+ORD-1452,2023-10-12,Consumer,West,Arizona,Technology,"Monitor 27""",3,299,0,897,217.56
+ORD-1453,2022-06-12,Corporate,South,Tennessee,Technology,Laptop HP,5,999,0.2,3996.0,739.54
+ORD-1454,2023-05-04,Consumer,South,Tennessee,Technology,iPhone 14,5,799,0,3995,914.04
+ORD-1455,2023-06-28,Corporate,East,Florida,Technology,iPhone 14,2,799,0,1598,338.91
+ORD-1456,2022-05-13,Corporate,West,Washington,Furniture,Bookshelf,2,149,0,298,80.68
+ORD-1457,2023-04-12,Consumer,Central,Texas,Furniture,Study Table,3,249,0.2,597.6,36.85
+ORD-1458,2023-02-18,Home Office,West,Arizona,Technology,Laptop HP,2,999,0,1998,460.21
+ORD-1459,2022-06-23,Home Office,West,California,Furniture,Office Chair,4,199,0.1,716.4,177.0
+ORD-1460,2023-09-01,Corporate,West,Washington,Office Supplies,Notebook Pack,1,19,0,19,4.0
+ORD-1461,2023-01-25,Home Office,West,Arizona,Office Supplies,Printer Paper,4,25,0,100,-0.75
+ORD-1462,2022-01-10,Home Office,Central,Texas,Furniture,Office Chair,5,199,0.1,895.5,161.42
+ORD-1463,2023-03-05,Corporate,West,California,Office Supplies,Notebook Pack,3,19,0,57,14.43
+ORD-1464,2023-09-16,Consumer,East,Ohio,Furniture,Study Table,3,249,0.2,597.6,19.67
+ORD-1465,2023-05-24,Home Office,East,New York,Office Supplies,Stapler,3,15,0,45,-4.44
+ORD-1466,2022-04-24,Consumer,South,Tennessee,Technology,iPhone 14,5,799,0,3995,901.29
+ORD-1467,2023-10-22,Consumer,East,New York,Furniture,Bookshelf,3,149,0.2,357.6,-27.7
+ORD-1468,2022-10-25,Consumer,Central,Texas,Office Supplies,Printer Paper,4,25,0,100,-5.73
+ORD-1469,2022-05-22,Home Office,East,New York,Furniture,Bookshelf,4,149,0.3,417.2,8.65
+ORD-1470,2023-01-17,Corporate,Central,Illinois,Technology,iPhone 14,4,799,0.2,2556.8,851.52
+ORD-1471,2023-05-05,Consumer,South,Georgia,Office Supplies,Pen Set,1,12,0,12,2.56
+ORD-1472,2022-04-17,Corporate,South,Tennessee,Office Supplies,Stapler,5,15,0.2,60.0,-1.11
+ORD-1473,2023-09-19,Corporate,West,Washington,Office Supplies,Pen Set,4,12,0.2,38.4,-1.89
+ORD-1474,2022-02-17,Home Office,West,Arizona,Furniture,Bookshelf,1,149,0.3,104.3,25.59
+ORD-1475,2023-08-02,Home Office,East,New York,Office Supplies,Printer Paper,5,25,0.3,87.5,18.35
+ORD-1476,2023-03-20,Home Office,East,Ohio,Furniture,Bookshelf,4,149,0,596,165.43
+ORD-1477,2022-02-25,Consumer,West,California,Office Supplies,Pen Set,5,12,0.2,48.0,13.6
+ORD-1478,2023-05-19,Home Office,Central,Colorado,Technology,Headphones,3,129,0,387,49.58
+ORD-1479,2023-01-23,Corporate,South,Georgia,Technology,iPhone 14,4,799,0.2,2556.8,666.22
+ORD-1480,2023-05-26,Corporate,South,Georgia,Furniture,Office Chair,4,199,0,796,-42.83
+ORD-1481,2023-07-25,Home Office,West,Washington,Technology,Headphones,5,129,0.3,451.5,-3.12
+ORD-1482,2022-12-16,Home Office,Central,Colorado,Technology,Laptop HP,4,999,0.1,3596.4,546.9
+ORD-1483,2023-04-30,Consumer,Central,Texas,Office Supplies,Stapler,1,15,0,15,3.63
+ORD-1484,2022-12-16,Consumer,Central,Texas,Office Supplies,Printer Paper,5,25,0.3,87.5,5.97
+ORD-1485,2022-06-18,Consumer,South,Georgia,Technology,"Monitor 27""",1,299,0.1,269.1,47.06
+ORD-1486,2023-02-07,Consumer,East,Ohio,Furniture,Study Table,3,249,0,747,179.82
+ORD-1487,2023-11-20,Corporate,West,California,Furniture,Sofa,5,599,0.3,2096.5,-82.63
+ORD-1488,2023-06-28,Consumer,West,Arizona,Office Supplies,Stapler,5,15,0.2,60.0,18.96
+ORD-1489,2023-08-16,Home Office,East,Florida,Office Supplies,Pen Set,1,12,0.2,9.6,1.88
+ORD-1490,2023-06-01,Corporate,South,Tennessee,Furniture,Study Table,3,249,0.2,597.6,199.37
+ORD-1491,2022-05-17,Home Office,East,Ohio,Furniture,Bookshelf,5,149,0.1,670.5,147.74
+ORD-1492,2022-08-11,Home Office,East,New York,Technology,Headphones,3,129,0,387,132.2
+ORD-1493,2023-05-31,Home Office,Central,Colorado,Office Supplies,Notebook Pack,3,19,0.3,39.9,4.64
+ORD-1494,2023-03-04,Consumer,Central,Texas,Furniture,Office Chair,5,199,0,995,-88.18
+ORD-1495,2023-11-18,Consumer,West,California,Technology,Headphones,2,129,0.1,232.2,48.19
+ORD-1496,2022-10-30,Home Office,East,Ohio,Office Supplies,Notebook Pack,3,19,0.2,45.6,-2.46
+ORD-1497,2023-07-30,Home Office,East,Florida,Office Supplies,Stapler,2,15,0.3,21.0,5.31
+ORD-1498,2023-11-12,Consumer,West,California,Furniture,Sofa,4,599,0.1,2156.4,721.59
+ORD-1499,2022-09-15,Home Office,East,Ohio,Office Supplies,Stapler,2,15,0.1,27.0,6.47
+ORD-1500,2023-09-10,Home Office,East,New York,Office Supplies,Pen Set,3,12,0.2,28.8,-0.58
+ORD-1501,2022-07-11,Home Office,East,Florida,Office Supplies,Notebook Pack,4,19,0,76,7.05
+ORD-1502,2022-05-14,Consumer,East,New York,Office Supplies,Printer Paper,1,25,0.1,22.5,2.47
+ORD-1503,2022-06-07,Home Office,Central,Colorado,Office Supplies,Notebook Pack,5,19,0.1,85.5,10.32
+ORD-1504,2023-01-02,Home Office,West,California,Office Supplies,Printer Paper,5,25,0,125,41.33
+ORD-1505,2023-06-02,Consumer,East,Ohio,Furniture,Sofa,1,599,0.1,539.1,-0.25
+ORD-1506,2022-12-06,Home Office,Central,Colorado,Furniture,Bookshelf,2,149,0.3,208.6,28.94
+ORD-1507,2022-01-10,Home Office,West,Arizona,Office Supplies,Printer Paper,4,25,0,100,30.7
+ORD-1508,2022-09-07,Home Office,West,Arizona,Office Supplies,Printer Paper,4,25,0,100,7.36
+ORD-1509,2022-10-17,Consumer,West,Washington,Office Supplies,Printer Paper,5,25,0.3,87.5,8.79
+ORD-1510,2023-10-30,Home Office,East,Ohio,Furniture,Office Chair,1,199,0,199,67.11
+ORD-1511,2022-01-08,Home Office,West,Arizona,Technology,Laptop HP,4,999,0,3996,-29.93
+ORD-1512,2023-03-22,Consumer,West,California,Office Supplies,Pen Set,1,12,0.2,9.6,2.14
+ORD-1513,2022-03-17,Consumer,West,Washington,Technology,Headphones,5,129,0,645,102.38
+ORD-1514,2023-02-22,Home Office,South,Georgia,Furniture,Sofa,4,599,0.1,2156.4,-199.25
+ORD-1515,2023-07-02,Consumer,West,Washington,Office Supplies,Notebook Pack,5,19,0,95,20.46
+ORD-1516,2023-05-30,Corporate,West,Washington,Furniture,Bookshelf,5,149,0,745,19.88
+ORD-1517,2023-02-09,Corporate,West,Arizona,Furniture,Study Table,5,249,0,1245,-48.09
+ORD-1518,2022-10-30,Consumer,East,New York,Furniture,Bookshelf,1,149,0.3,104.3,30.63
+ORD-1519,2022-02-12,Corporate,West,California,Office Supplies,Stapler,5,15,0.3,52.5,17.12
+ORD-1520,2022-12-19,Corporate,East,New York,Furniture,Study Table,2,249,0,498,-0.32
+ORD-1521,2022-04-28,Consumer,East,Florida,Office Supplies,Notebook Pack,5,19,0.2,76.0,14.45
+ORD-1522,2023-11-19,Corporate,West,Washington,Furniture,Office Chair,2,199,0.3,278.6,33.22
+ORD-1523,2022-05-12,Corporate,East,Florida,Technology,Headphones,5,129,0,645,196.76
+ORD-1524,2023-04-07,Corporate,Central,Illinois,Office Supplies,Printer Paper,5,25,0,125,19.31
+ORD-1525,2023-03-15,Home Office,East,Florida,Technology,Headphones,2,129,0,258,56.89
+ORD-1526,2022-10-11,Corporate,Central,Illinois,Technology,Headphones,4,129,0.2,412.8,41.45
+ORD-1527,2023-07-19,Consumer,West,Washington,Technology,iPhone 14,3,799,0,2397,721.7
+ORD-1528,2023-10-04,Home Office,West,Arizona,Office Supplies,Notebook Pack,1,19,0.3,13.3,2.45
+ORD-1529,2023-02-19,Consumer,East,Florida,Technology,Headphones,5,129,0.3,451.5,50.77
+ORD-1530,2023-02-06,Consumer,East,Florida,Office Supplies,Printer Paper,2,25,0.2,40.0,5.02
+ORD-1531,2023-01-08,Consumer,West,Washington,Office Supplies,Pen Set,5,12,0,60,14.44
+ORD-1532,2022-06-13,Corporate,East,New York,Office Supplies,Pen Set,4,12,0.1,43.2,-3.53
+ORD-1533,2022-03-06,Corporate,Central,Illinois,Furniture,Study Table,1,249,0,249,33.13
+ORD-1534,2023-04-26,Home Office,South,Alabama,Technology,iPhone 14,3,799,0,2397,519.39
+ORD-1535,2022-10-08,Home Office,Central,Texas,Office Supplies,Pen Set,4,12,0.2,38.4,2.47
+ORD-1536,2023-06-14,Corporate,Central,Illinois,Furniture,Study Table,5,249,0.2,996.0,58.57
+ORD-1537,2023-05-09,Home Office,West,Arizona,Office Supplies,Pen Set,4,12,0,48,0.17
+ORD-1538,2022-10-15,Consumer,East,Ohio,Technology,Laptop HP,2,999,0.1,1798.2,307.33
+ORD-1539,2022-08-24,Home Office,South,Georgia,Furniture,Office Chair,4,199,0.2,636.8,73.59
+ORD-1540,2023-10-25,Consumer,South,Georgia,Technology,Laptop HP,1,999,0,999,157.91
+ORD-1541,2023-10-07,Consumer,West,Arizona,Office Supplies,Pen Set,1,12,0,12,0.19
+ORD-1542,2023-02-20,Corporate,West,Washington,Office Supplies,Printer Paper,1,25,0,25,2.55
+ORD-1543,2022-06-24,Home Office,East,Florida,Furniture,Study Table,5,249,0,1245,224.65
+ORD-1544,2022-06-21,Consumer,Central,Texas,Furniture,Office Chair,2,199,0.2,318.4,23.39
+ORD-1545,2022-07-27,Home Office,South,Georgia,Technology,iPhone 14,2,799,0.2,1278.4,390.84
+ORD-1546,2023-06-29,Consumer,West,Arizona,Technology,"Monitor 27""",2,299,0.3,418.6,59.73
+ORD-1547,2023-10-27,Corporate,South,Georgia,Office Supplies,Stapler,3,15,0,45,9.63
+ORD-1548,2023-05-09,Consumer,South,Georgia,Furniture,Office Chair,4,199,0,796,11.57
+ORD-1549,2022-10-18,Consumer,South,Alabama,Furniture,Study Table,1,249,0,249,39.86
+ORD-1550,2022-01-08,Consumer,South,Tennessee,Office Supplies,Pen Set,3,12,0.2,28.8,1.82
+ORD-1551,2023-10-30,Home Office,Central,Illinois,Furniture,Sofa,5,599,0.1,2695.5,472.65
+ORD-1552,2022-07-28,Corporate,South,Tennessee,Office Supplies,Stapler,2,15,0.1,27.0,4.09
+ORD-1553,2022-11-11,Corporate,Central,Colorado,Office Supplies,Stapler,2,15,0,30,7.1
+ORD-1554,2022-06-15,Home Office,West,Arizona,Technology,"Monitor 27""",3,299,0.3,627.9,110.71
+ORD-1555,2022-02-23,Home Office,East,Florida,Furniture,Office Chair,1,199,0,199,22.34
+ORD-1556,2022-04-01,Home Office,West,Washington,Furniture,Study Table,3,249,0,747,130.03
+ORD-1557,2023-02-15,Consumer,Central,Colorado,Office Supplies,Notebook Pack,2,19,0.2,30.4,2.97
+ORD-1558,2023-06-15,Consumer,Central,Colorado,Technology,iPhone 14,5,799,0.3,2796.5,369.46
+ORD-1559,2022-06-23,Corporate,West,Washington,Furniture,Study Table,1,249,0,249,-15.17
+ORD-1560,2022-12-28,Consumer,South,Georgia,Furniture,Study Table,5,249,0,1245,288.36
+ORD-1561,2023-07-17,Consumer,Central,Illinois,Office Supplies,Printer Paper,3,25,0.1,67.5,0.12
+ORD-1562,2023-02-18,Consumer,West,Arizona,Furniture,Study Table,4,249,0.3,697.2,-36.32
+ORD-1563,2022-10-29,Corporate,Central,Illinois,Technology,Headphones,5,129,0.3,451.5,5.67
+ORD-1564,2023-07-31,Consumer,South,Tennessee,Technology,Headphones,4,129,0.2,412.8,125.26
+ORD-1565,2022-04-30,Corporate,Central,Illinois,Technology,"Monitor 27""",2,299,0,598,155.52
+ORD-1566,2023-06-13,Home Office,West,Arizona,Office Supplies,Printer Paper,2,25,0.1,45.0,-2.62
+ORD-1567,2022-12-17,Home Office,West,Washington,Office Supplies,Pen Set,4,12,0.1,43.2,2.55
+ORD-1568,2022-07-07,Consumer,East,New York,Furniture,Study Table,2,249,0,498,145.78
+ORD-1569,2022-07-27,Consumer,East,Ohio,Office Supplies,Printer Paper,2,25,0,50,-2.3
+ORD-1570,2023-11-11,Corporate,South,Alabama,Office Supplies,Notebook Pack,5,19,0,95,26.75
+ORD-1571,2022-11-19,Home Office,South,Tennessee,Office Supplies,Printer Paper,4,25,0,100,34.3
+ORD-1572,2023-02-12,Corporate,East,Ohio,Office Supplies,Pen Set,1,12,0.3,8.4,2.18
+ORD-1573,2022-02-03,Corporate,Central,Illinois,Furniture,Study Table,4,249,0,996,213.35
+ORD-1574,2022-01-09,Corporate,West,Arizona,Office Supplies,Pen Set,4,12,0.3,33.6,-1.84
+ORD-1575,2022-09-23,Home Office,East,Florida,Office Supplies,Printer Paper,2,25,0.1,45.0,5.04
+ORD-1576,2023-01-10,Corporate,East,Florida,Furniture,Sofa,2,599,0.2,958.4,206.36
+ORD-1577,2023-02-15,Home Office,Central,Texas,Furniture,Study Table,5,249,0,1245,424.14
+ORD-1578,2022-04-13,Home Office,Central,Texas,Technology,"Monitor 27""",4,299,0,1196,-41.11
+ORD-1579,2023-04-30,Home Office,West,Arizona,Technology,"Monitor 27""",4,299,0,1196,416.21
+ORD-1580,2023-07-01,Consumer,Central,Illinois,Furniture,Bookshelf,3,149,0.3,312.9,89.59
+ORD-1581,2022-04-12,Consumer,East,Florida,Technology,Laptop HP,3,999,0.2,2397.6,665.42
+ORD-1582,2022-12-09,Corporate,Central,Illinois,Furniture,Bookshelf,5,149,0.3,521.5,166.53
+ORD-1583,2022-01-21,Home Office,South,Alabama,Technology,Headphones,5,129,0,645,102.93
+ORD-1584,2023-07-06,Home Office,East,Florida,Furniture,Bookshelf,3,149,0.3,312.9,37.35
+ORD-1585,2022-03-22,Home Office,South,Tennessee,Office Supplies,Printer Paper,4,25,0,100,29.07
+ORD-1586,2023-03-08,Corporate,South,Alabama,Technology,iPhone 14,2,799,0.1,1438.2,3.88
+ORD-1587,2022-10-26,Corporate,Central,Colorado,Office Supplies,Stapler,3,15,0.2,36.0,9.05
+ORD-1588,2023-08-25,Consumer,South,Alabama,Furniture,Study Table,2,249,0,498,-21.78
+ORD-1589,2022-09-15,Corporate,West,Arizona,Technology,Laptop HP,4,999,0,3996,-227.78
+ORD-1590,2022-02-25,Consumer,West,Arizona,Furniture,Office Chair,1,199,0.1,179.1,31.91
+ORD-1591,2023-02-04,Consumer,Central,Colorado,Technology,Laptop HP,3,999,0.2,2397.6,436.16
+ORD-1592,2022-06-24,Home Office,West,Washington,Technology,Headphones,3,129,0.2,309.6,34.13
+ORD-1593,2023-07-16,Home Office,South,Alabama,Technology,Laptop HP,5,999,0.3,3496.5,368.69
+ORD-1594,2023-08-01,Consumer,South,Tennessee,Office Supplies,Printer Paper,3,25,0.2,60.0,8.57
+ORD-1595,2022-11-12,Home Office,Central,Texas,Furniture,Bookshelf,2,149,0.1,268.2,-25.55
+ORD-1596,2022-12-19,Corporate,Central,Illinois,Furniture,Office Chair,4,199,0.2,636.8,22.18
+ORD-1597,2023-09-04,Corporate,East,Florida,Technology,Headphones,2,129,0.2,206.4,61.3
+ORD-1598,2022-09-13,Corporate,East,Ohio,Office Supplies,Stapler,4,15,0,60,1.1
+ORD-1599,2022-09-03,Consumer,Central,Texas,Furniture,Bookshelf,4,149,0,596,169.3
+ORD-1600,2022-10-24,Home Office,West,Washington,Office Supplies,Stapler,5,15,0.2,60.0,1.35
+ORD-1601,2022-07-12,Consumer,Central,Illinois,Technology,Laptop HP,1,999,0.3,699.3,-62.97
+ORD-1602,2022-10-03,Consumer,East,Florida,Office Supplies,Stapler,1,15,0,15,-0.89
+ORD-1603,2022-08-11,Consumer,Central,Illinois,Furniture,Bookshelf,4,149,0.1,536.4,58.28
+ORD-1604,2022-03-24,Consumer,East,New York,Technology,Headphones,4,129,0,516,74.53
+ORD-1605,2022-09-14,Corporate,South,Georgia,Technology,iPhone 14,2,799,0.2,1278.4,315.83
+ORD-1606,2022-02-04,Home Office,East,Florida,Furniture,Office Chair,5,199,0,995,112.21
+ORD-1607,2022-11-27,Corporate,East,Ohio,Office Supplies,Notebook Pack,5,19,0.3,66.5,-2.99
+ORD-1608,2022-11-02,Corporate,East,Florida,Furniture,Office Chair,2,199,0,398,2.46
+ORD-1609,2022-01-16,Consumer,East,Ohio,Furniture,Office Chair,4,199,0,796,-76.4
+ORD-1610,2023-05-02,Home Office,East,Ohio,Furniture,Office Chair,2,199,0,398,49.74
+ORD-1611,2022-12-13,Consumer,West,Washington,Technology,Headphones,2,129,0.3,180.6,46.26
+ORD-1612,2022-08-27,Corporate,Central,Illinois,Office Supplies,Printer Paper,4,25,0,100,-9.04
+ORD-1613,2022-05-18,Home Office,Central,Illinois,Technology,"Monitor 27""",4,299,0.3,837.2,27.31
+ORD-1614,2022-07-14,Home Office,East,Ohio,Office Supplies,Printer Paper,3,25,0.2,60.0,1.43
+ORD-1615,2022-06-14,Home Office,West,Washington,Office Supplies,Pen Set,4,12,0.1,43.2,11.61
+ORD-1616,2023-04-10,Corporate,West,Arizona,Office Supplies,Stapler,2,15,0,30,5.37
+ORD-1617,2022-09-02,Home Office,Central,Illinois,Office Supplies,Notebook Pack,5,19,0.2,76.0,-1.11
+ORD-1618,2023-07-19,Consumer,East,New York,Office Supplies,Printer Paper,3,25,0.2,60.0,11.3
+ORD-1619,2023-06-20,Corporate,West,California,Technology,Laptop HP,2,999,0,1998,-18.11
+ORD-1620,2022-04-12,Home Office,West,Washington,Office Supplies,Stapler,4,15,0.3,42.0,7.59
+ORD-1621,2022-02-20,Consumer,Central,Illinois,Technology,iPhone 14,1,799,0,799,155.87
+ORD-1622,2023-10-17,Corporate,West,Arizona,Furniture,Sofa,3,599,0,1797,486.34
+ORD-1623,2022-02-11,Home Office,West,California,Furniture,Office Chair,2,199,0.3,278.6,-15.68
+ORD-1624,2023-06-29,Consumer,South,Alabama,Technology,Laptop HP,5,999,0,4995,781.78
+ORD-1625,2023-07-26,Home Office,South,Alabama,Office Supplies,Notebook Pack,5,19,0.1,85.5,17.4
+ORD-1626,2023-03-14,Home Office,West,California,Technology,Laptop HP,5,999,0.2,3996.0,507.94
+ORD-1627,2023-07-01,Corporate,South,Alabama,Furniture,Bookshelf,5,149,0.1,670.5,187.86
+ORD-1628,2023-03-17,Home Office,Central,Colorado,Office Supplies,Pen Set,5,12,0.3,42.0,-0.16
+ORD-1629,2022-09-18,Corporate,Central,Colorado,Furniture,Sofa,4,599,0,2396,543.51
+ORD-1630,2022-01-17,Corporate,East,New York,Furniture,Office Chair,3,199,0,597,-1.99
+ORD-1631,2022-10-10,Corporate,East,Florida,Technology,iPhone 14,4,799,0.1,2876.4,-85.58
+ORD-1632,2023-08-20,Home Office,East,New York,Technology,Headphones,3,129,0,387,60.65
+ORD-1633,2022-03-21,Consumer,Central,Colorado,Furniture,Study Table,4,249,0.3,697.2,187.39
+ORD-1634,2023-10-20,Corporate,Central,Illinois,Technology,"Monitor 27""",1,299,0,299,94.14
+ORD-1635,2023-03-21,Home Office,South,Tennessee,Technology,Laptop HP,5,999,0,4995,925.32
+ORD-1636,2022-02-25,Corporate,Central,Colorado,Office Supplies,Notebook Pack,3,19,0.3,39.9,6.15
+ORD-1637,2022-08-15,Consumer,East,New York,Technology,"Monitor 27""",4,299,0.3,837.2,133.0
+ORD-1638,2023-03-19,Home Office,Central,Colorado,Furniture,Study Table,2,249,0.1,448.2,-28.17
+ORD-1639,2022-02-20,Home Office,South,Georgia,Furniture,Office Chair,4,199,0.3,557.2,53.22
+ORD-1640,2022-05-19,Consumer,South,Alabama,Office Supplies,Pen Set,4,12,0.2,38.4,7.43
+ORD-1641,2023-09-23,Home Office,East,New York,Technology,iPhone 14,3,799,0.2,1917.6,87.32
+ORD-1642,2022-04-26,Home Office,South,Alabama,Furniture,Bookshelf,3,149,0,447,19.82
+ORD-1643,2022-01-25,Corporate,Central,Texas,Technology,Headphones,5,129,0.2,516.0,93.1
+ORD-1644,2022-08-28,Consumer,East,New York,Office Supplies,Printer Paper,2,25,0,50,-2.47
+ORD-1645,2023-09-28,Corporate,East,New York,Furniture,Office Chair,3,199,0,597,22.27
+ORD-1646,2022-12-06,Corporate,East,Ohio,Office Supplies,Pen Set,2,12,0.3,16.8,2.28
+ORD-1647,2023-05-10,Home Office,East,New York,Office Supplies,Notebook Pack,4,19,0.3,53.2,16.37
+ORD-1648,2022-09-19,Corporate,East,Ohio,Technology,Headphones,2,129,0.3,180.6,3.99
+ORD-1649,2022-01-09,Home Office,West,Washington,Furniture,Bookshelf,3,149,0,447,-40.86
+ORD-1650,2022-08-25,Home Office,South,Georgia,Office Supplies,Notebook Pack,3,19,0.2,45.6,13.23
+ORD-1651,2022-07-10,Home Office,East,Florida,Office Supplies,Stapler,5,15,0,75,-6.16
+ORD-1652,2022-12-08,Corporate,South,Alabama,Furniture,Study Table,1,249,0.1,224.1,46.6
+ORD-1653,2022-11-06,Consumer,East,Ohio,Office Supplies,Printer Paper,1,25,0.1,22.5,6.65
+ORD-1654,2022-10-14,Corporate,East,Ohio,Technology,Headphones,4,129,0,516,-31.21
+ORD-1655,2023-11-26,Corporate,East,Ohio,Furniture,Study Table,5,249,0,1245,114.43
+ORD-1656,2022-12-04,Home Office,South,Georgia,Office Supplies,Pen Set,2,12,0,24,3.88
+ORD-1657,2022-05-22,Home Office,Central,Texas,Office Supplies,Pen Set,4,12,0,48,9.37
+ORD-1658,2022-11-22,Consumer,West,Arizona,Office Supplies,Notebook Pack,2,19,0.1,34.2,9.5
+ORD-1659,2022-01-31,Home Office,Central,Colorado,Furniture,Sofa,3,599,0.2,1437.6,338.59
+ORD-1660,2022-10-08,Home Office,East,Ohio,Technology,iPhone 14,2,799,0,1598,-140.96
+ORD-1661,2022-10-01,Home Office,East,Florida,Office Supplies,Pen Set,2,12,0,24,1.48
+ORD-1662,2022-05-18,Consumer,South,Georgia,Office Supplies,Printer Paper,2,25,0.2,40.0,4.85
+ORD-1663,2022-07-17,Consumer,East,Ohio,Technology,"Monitor 27""",1,299,0.1,269.1,88.15
+ORD-1664,2023-11-19,Corporate,East,Ohio,Technology,iPhone 14,2,799,0.2,1278.4,371.0
+ORD-1665,2022-11-29,Corporate,South,Alabama,Technology,"Monitor 27""",4,299,0,1196,207.59
+ORD-1666,2022-11-17,Consumer,South,Georgia,Office Supplies,Notebook Pack,5,19,0,95,9.81
+ORD-1667,2023-06-16,Home Office,South,Georgia,Office Supplies,Notebook Pack,5,19,0.2,76.0,10.05
+ORD-1668,2022-07-14,Corporate,Central,Illinois,Furniture,Sofa,3,599,0.1,1617.3,174.03
+ORD-1669,2023-09-20,Home Office,West,California,Office Supplies,Pen Set,4,12,0.2,38.4,-2.28
+ORD-1670,2022-07-04,Corporate,East,Ohio,Furniture,Sofa,3,599,0.2,1437.6,-127.64
+ORD-1671,2022-07-26,Consumer,South,Georgia,Technology,Headphones,3,129,0,387,86.4
+ORD-1672,2022-04-27,Home Office,South,Alabama,Office Supplies,Printer Paper,1,25,0.3,17.5,3.82
+ORD-1673,2023-09-19,Home Office,East,Ohio,Furniture,Sofa,1,599,0,599,186.0
+ORD-1674,2022-06-03,Home Office,East,Florida,Technology,Laptop HP,1,999,0.2,799.2,30.87
+ORD-1675,2022-10-23,Corporate,East,New York,Technology,Laptop HP,2,999,0,1998,359.94
+ORD-1676,2023-04-15,Home Office,South,Alabama,Furniture,Office Chair,5,199,0.2,796.0,5.61
+ORD-1677,2023-05-03,Consumer,South,Alabama,Furniture,Sofa,1,599,0.3,419.3,71.3
+ORD-1678,2022-10-12,Consumer,East,New York,Technology,Laptop HP,2,999,0,1998,387.56
+ORD-1679,2022-02-03,Consumer,Central,Texas,Furniture,Office Chair,1,199,0,199,17.44
+ORD-1680,2023-11-20,Consumer,Central,Texas,Office Supplies,Pen Set,4,12,0.3,33.6,2.09
+ORD-1681,2022-11-03,Consumer,Central,Illinois,Furniture,Sofa,1,599,0.2,479.2,133.93
+ORD-1682,2023-04-28,Consumer,East,Ohio,Technology,Headphones,3,129,0.3,270.9,23.35
+ORD-1683,2022-08-03,Home Office,West,Washington,Technology,iPhone 14,4,799,0.3,2237.2,716.47
+ORD-1684,2023-03-14,Home Office,Central,Colorado,Furniture,Bookshelf,2,149,0.3,208.6,31.95
+ORD-1685,2023-10-10,Consumer,South,Georgia,Furniture,Study Table,5,249,0,1245,272.49
+ORD-1686,2022-05-02,Corporate,West,California,Furniture,Office Chair,2,199,0.3,278.6,97.38
+ORD-1687,2022-12-08,Corporate,Central,Texas,Office Supplies,Pen Set,1,12,0,12,2.53
+ORD-1688,2022-11-12,Corporate,Central,Illinois,Office Supplies,Printer Paper,1,25,0,25,5.22
+ORD-1689,2023-08-06,Corporate,West,Washington,Technology,Laptop HP,3,999,0.1,2697.3,849.72
+ORD-1690,2022-02-06,Corporate,East,Florida,Furniture,Study Table,4,249,0.3,697.2,211.37
+ORD-1691,2022-02-27,Home Office,Central,Colorado,Office Supplies,Printer Paper,5,25,0.3,87.5,-8.01
+ORD-1692,2022-12-06,Corporate,Central,Colorado,Technology,Laptop HP,3,999,0,2997,157.7
+ORD-1693,2023-07-02,Corporate,East,Ohio,Office Supplies,Stapler,2,15,0.3,21.0,-1.0
+ORD-1694,2022-11-19,Corporate,West,Washington,Furniture,Sofa,1,599,0.2,479.2,141.21
+ORD-1695,2022-11-06,Consumer,East,New York,Office Supplies,Printer Paper,2,25,0,50,3.42
+ORD-1696,2022-04-05,Corporate,South,Tennessee,Office Supplies,Notebook Pack,4,19,0.3,53.2,-1.63
+ORD-1697,2023-06-21,Consumer,Central,Texas,Furniture,Study Table,1,249,0.3,174.3,35.65
+ORD-1698,2022-02-07,Home Office,South,Alabama,Furniture,Office Chair,1,199,0.1,179.1,57.23
+ORD-1699,2022-03-31,Home Office,Central,Illinois,Furniture,Office Chair,1,199,0.3,139.3,34.1
+ORD-1700,2022-01-24,Corporate,Central,Colorado,Office Supplies,Pen Set,3,12,0,36,-0.48
+ORD-1701,2022-11-23,Consumer,South,Georgia,Office Supplies,Notebook Pack,3,19,0,57,-1.66
+ORD-1702,2023-09-30,Home Office,West,Washington,Technology,Headphones,5,129,0.1,580.5,12.76
+ORD-1703,2023-08-11,Home Office,East,Florida,Technology,iPhone 14,3,799,0.3,1677.9,505.9
+ORD-1704,2022-02-21,Consumer,East,Florida,Technology,"Monitor 27""",1,299,0,299,21.71
+ORD-1705,2023-02-06,Consumer,East,Ohio,Office Supplies,Stapler,5,15,0.1,67.5,2.74
+ORD-1706,2023-11-18,Corporate,West,Arizona,Furniture,Study Table,1,249,0.2,199.2,-11.2
+ORD-1707,2023-10-22,Home Office,South,Tennessee,Furniture,Study Table,2,249,0,498,143.17
+ORD-1708,2023-01-08,Consumer,South,Tennessee,Technology,Headphones,3,129,0.2,309.6,36.96
+ORD-1709,2022-04-26,Home Office,Central,Colorado,Furniture,Sofa,2,599,0.1,1078.2,264.78
+ORD-1710,2022-05-11,Corporate,West,Arizona,Furniture,Office Chair,3,199,0.3,417.9,80.34
+ORD-1711,2023-04-18,Consumer,South,Tennessee,Office Supplies,Stapler,2,15,0.3,21.0,0.2
+ORD-1712,2023-01-29,Corporate,West,Arizona,Furniture,Study Table,5,249,0.2,996.0,251.93
+ORD-1713,2022-12-17,Home Office,East,Florida,Technology,iPhone 14,5,799,0.2,3196.0,-155.18
+ORD-1714,2022-11-30,Consumer,West,Arizona,Furniture,Study Table,3,249,0.2,597.6,-41.04
+ORD-1715,2023-09-03,Consumer,South,Alabama,Furniture,Sofa,1,599,0,599,-1.24
+ORD-1716,2023-10-14,Home Office,West,Arizona,Technology,Laptop HP,4,999,0.3,2797.2,87.21
+ORD-1717,2023-04-03,Home Office,East,Florida,Technology,Headphones,3,129,0.3,270.9,69.74
+ORD-1718,2023-03-22,Consumer,Central,Illinois,Technology,iPhone 14,5,799,0.3,2796.5,229.0
+ORD-1719,2022-03-05,Corporate,Central,Texas,Office Supplies,Notebook Pack,1,19,0.3,13.3,3.58
+ORD-1720,2022-10-16,Home Office,West,Washington,Technology,"Monitor 27""",5,299,0.2,1196.0,216.89
+ORD-1721,2023-02-20,Home Office,South,Tennessee,Furniture,Study Table,2,249,0.2,398.4,-14.91
+ORD-1722,2023-01-04,Home Office,South,Georgia,Technology,Headphones,2,129,0,258,-24.45
+ORD-1723,2022-05-28,Corporate,South,Tennessee,Office Supplies,Stapler,2,15,0,30,-1.15
+ORD-1724,2023-09-11,Corporate,South,Tennessee,Office Supplies,Pen Set,4,12,0.3,33.6,3.05
+ORD-1725,2022-12-30,Home Office,East,New York,Technology,"Monitor 27""",5,299,0,1495,239.31
+ORD-1726,2023-05-29,Home Office,Central,Illinois,Furniture,Bookshelf,1,149,0,149,23.19
+ORD-1727,2022-04-26,Corporate,South,Tennessee,Office Supplies,Notebook Pack,2,19,0.3,26.6,9.11
+ORD-1728,2023-06-14,Home Office,West,Arizona,Office Supplies,Notebook Pack,2,19,0.2,30.4,5.59
+ORD-1729,2022-03-21,Corporate,Central,Illinois,Office Supplies,Notebook Pack,3,19,0.3,39.9,9.99
+ORD-1730,2023-06-09,Corporate,South,Tennessee,Office Supplies,Printer Paper,4,25,0.1,90.0,29.9
+ORD-1731,2022-06-21,Corporate,West,Arizona,Office Supplies,Printer Paper,5,25,0.1,112.5,-8.14
+ORD-1732,2022-06-23,Consumer,West,California,Office Supplies,Printer Paper,5,25,0,125,3.63
+ORD-1733,2023-06-02,Corporate,West,California,Furniture,Bookshelf,2,149,0.3,208.6,5.51
+ORD-1734,2022-04-25,Corporate,East,Ohio,Office Supplies,Pen Set,4,12,0.1,43.2,11.38
+ORD-1735,2022-08-30,Home Office,South,Georgia,Technology,iPhone 14,3,799,0,2397,803.73
+ORD-1736,2023-05-23,Home Office,South,Tennessee,Furniture,Study Table,4,249,0,996,-5.09
+ORD-1737,2022-02-25,Corporate,Central,Illinois,Technology,iPhone 14,2,799,0.2,1278.4,101.55
+ORD-1738,2023-06-30,Corporate,East,New York,Furniture,Sofa,4,599,0.1,2156.4,-74.79
+ORD-1739,2022-10-23,Home Office,South,Alabama,Furniture,Bookshelf,5,149,0,745,-41.86
+ORD-1740,2022-12-29,Consumer,South,Tennessee,Office Supplies,Printer Paper,3,25,0.1,67.5,1.36
+ORD-1741,2023-11-02,Home Office,South,Alabama,Furniture,Study Table,5,249,0,1245,166.8
+ORD-1742,2022-07-04,Consumer,Central,Colorado,Office Supplies,Notebook Pack,1,19,0,19,-1.8
+ORD-1743,2022-04-17,Consumer,South,Alabama,Furniture,Study Table,3,249,0.1,672.3,-8.82
+ORD-1744,2022-04-05,Consumer,West,California,Office Supplies,Pen Set,5,12,0,60,13.12
+ORD-1745,2023-09-12,Corporate,East,Ohio,Furniture,Study Table,1,249,0,249,3.49
+ORD-1746,2022-03-19,Consumer,South,Tennessee,Furniture,Sofa,3,599,0.1,1617.3,-43.85
+ORD-1747,2022-03-05,Corporate,South,Georgia,Furniture,Bookshelf,1,149,0.1,134.1,44.26
+ORD-1748,2023-03-28,Corporate,West,California,Furniture,Study Table,5,249,0.2,996.0,-19.62
+ORD-1749,2022-05-28,Consumer,South,Georgia,Technology,iPhone 14,4,799,0.1,2876.4,-153.95
+ORD-1750,2023-08-09,Consumer,Central,Texas,Furniture,Office Chair,4,199,0,796,154.26
+ORD-1751,2023-11-12,Home Office,South,Alabama,Furniture,Study Table,3,249,0.2,597.6,94.77
+ORD-1752,2023-05-18,Corporate,South,Alabama,Furniture,Sofa,1,599,0.3,419.3,0.68
+ORD-1753,2023-05-09,Home Office,West,Arizona,Office Supplies,Printer Paper,3,25,0.1,67.5,5.42
+ORD-1754,2022-04-03,Corporate,Central,Colorado,Office Supplies,Printer Paper,1,25,0.2,20.0,4.84
+ORD-1755,2022-07-27,Corporate,East,New York,Office Supplies,Notebook Pack,4,19,0,76,2.62
+ORD-1756,2023-10-08,Consumer,Central,Texas,Furniture,Office Chair,4,199,0,796,-29.47
+ORD-1757,2023-08-31,Corporate,East,Ohio,Furniture,Sofa,1,599,0.3,419.3,79.47
+ORD-1758,2023-04-06,Consumer,West,Washington,Technology,Headphones,1,129,0.1,116.1,29.55
+ORD-1759,2022-05-02,Consumer,East,New York,Office Supplies,Stapler,5,15,0,75,17.51
+ORD-1760,2022-02-07,Home Office,East,Ohio,Furniture,Office Chair,4,199,0.3,557.2,-44.24
+ORD-1761,2022-05-14,Consumer,West,Arizona,Technology,iPhone 14,3,799,0,2397,252.36
+ORD-1762,2022-03-07,Consumer,West,Washington,Technology,"Monitor 27""",5,299,0.3,1046.5,-0.78
+ORD-1763,2022-12-12,Consumer,South,Georgia,Furniture,Office Chair,5,199,0.3,696.5,-26.61
+ORD-1764,2023-08-31,Corporate,East,New York,Furniture,Office Chair,1,199,0.1,179.1,-6.53
+ORD-1765,2023-01-14,Home Office,East,Ohio,Furniture,Study Table,5,249,0,1245,-49.78
+ORD-1766,2023-01-21,Consumer,East,Ohio,Technology,"Monitor 27""",1,299,0,299,-28.93
+ORD-1767,2023-10-30,Corporate,Central,Colorado,Furniture,Sofa,2,599,0,1198,-42.66
+ORD-1768,2023-04-07,Home Office,South,Tennessee,Technology,Laptop HP,5,999,0,4995,840.77
+ORD-1769,2023-09-19,Consumer,West,California,Office Supplies,Printer Paper,3,25,0.2,60.0,-5.88
+ORD-1770,2022-05-01,Home Office,West,Arizona,Office Supplies,Printer Paper,5,25,0.3,87.5,-0.12
+ORD-1771,2022-08-02,Corporate,Central,Illinois,Technology,Laptop HP,1,999,0,999,208.15
+ORD-1772,2022-06-30,Corporate,East,Florida,Office Supplies,Notebook Pack,1,19,0.1,17.1,0.48
+ORD-1773,2022-12-09,Consumer,South,Tennessee,Technology,iPhone 14,1,799,0.3,559.3,-11.66
+ORD-1774,2023-06-12,Corporate,West,California,Technology,Laptop HP,4,999,0.3,2797.2,450.05
+ORD-1775,2023-11-25,Home Office,Central,Illinois,Technology,iPhone 14,3,799,0,2397,-133.92
+ORD-1776,2022-07-24,Corporate,South,Georgia,Technology,iPhone 14,4,799,0.3,2237.2,263.95
+ORD-1777,2022-08-10,Consumer,South,Alabama,Technology,"Monitor 27""",3,299,0,897,95.07
+ORD-1778,2023-01-03,Consumer,Central,Illinois,Technology,Headphones,2,129,0,258,54.57
+ORD-1779,2022-05-20,Consumer,West,Washington,Furniture,Sofa,4,599,0,2396,580.2
+ORD-1780,2023-09-11,Consumer,East,Florida,Office Supplies,Pen Set,5,12,0.3,42.0,11.96
+ORD-1781,2023-06-19,Corporate,South,Alabama,Technology,"Monitor 27""",4,299,0.1,1076.4,-100.61
+ORD-1782,2022-09-10,Home Office,East,New York,Furniture,Sofa,5,599,0,2995,902.45
+ORD-1783,2023-08-11,Home Office,West,California,Furniture,Office Chair,1,199,0.2,159.2,36.63
+ORD-1784,2023-03-12,Home Office,South,Georgia,Furniture,Office Chair,4,199,0.2,636.8,5.24
+ORD-1785,2023-02-21,Consumer,East,New York,Technology,Headphones,3,129,0,387,74.09
+ORD-1786,2023-05-07,Corporate,Central,Illinois,Technology,"Monitor 27""",5,299,0.3,1046.5,-93.15
+ORD-1787,2022-05-22,Consumer,South,Tennessee,Technology,Headphones,4,129,0,516,148.18
+ORD-1788,2022-12-07,Consumer,West,Arizona,Furniture,Sofa,3,599,0.3,1257.9,181.26
+ORD-1789,2022-03-24,Consumer,Central,Illinois,Office Supplies,Notebook Pack,5,19,0.1,85.5,25.61
+ORD-1790,2023-01-10,Home Office,South,Alabama,Office Supplies,Notebook Pack,3,19,0.1,51.3,-1.08
+ORD-1791,2022-03-10,Corporate,East,Ohio,Technology,Headphones,2,129,0.3,180.6,-8.83
+ORD-1792,2023-08-18,Home Office,East,Ohio,Office Supplies,Pen Set,3,12,0.1,32.4,9.85
+ORD-1793,2023-03-10,Home Office,Central,Colorado,Technology,iPhone 14,3,799,0.1,2157.3,223.46
+ORD-1794,2022-05-06,Home Office,South,Alabama,Office Supplies,Printer Paper,4,25,0.3,70.0,4.6
+ORD-1795,2022-03-09,Corporate,East,New York,Furniture,Office Chair,1,199,0.2,159.2,48.41
+ORD-1796,2022-04-22,Consumer,East,Ohio,Furniture,Office Chair,2,199,0.2,318.4,-10.28
+ORD-1797,2023-10-05,Corporate,West,Washington,Furniture,Sofa,5,599,0,2995,339.21
+ORD-1798,2023-10-23,Consumer,West,Arizona,Furniture,Study Table,1,249,0,249,72.78
+ORD-1799,2023-10-23,Home Office,Central,Colorado,Furniture,Bookshelf,3,149,0.2,357.6,59.72
+ORD-1800,2023-07-16,Corporate,South,Georgia,Furniture,Bookshelf,5,149,0,745,226.65
+ORD-1801,2022-09-24,Corporate,East,Florida,Furniture,Bookshelf,3,149,0,447,-14.86
+ORD-1802,2022-06-20,Home Office,East,Ohio,Office Supplies,Printer Paper,2,25,0,50,13.88
+ORD-1803,2022-06-07,Corporate,East,Florida,Technology,iPhone 14,1,799,0.1,719.1,114.0
+ORD-1804,2023-01-14,Corporate,East,Ohio,Technology,iPhone 14,3,799,0.1,2157.3,-72.11
+ORD-1805,2022-06-16,Corporate,Central,Illinois,Technology,iPhone 14,4,799,0.2,2556.8,628.55
+ORD-1806,2022-06-09,Home Office,West,Arizona,Office Supplies,Printer Paper,3,25,0.2,60.0,18.19
+ORD-1807,2022-05-31,Home Office,South,Georgia,Furniture,Office Chair,4,199,0,796,-29.66
+ORD-1808,2022-11-12,Consumer,West,Arizona,Furniture,Study Table,4,249,0.1,896.4,-52.33
+ORD-1809,2023-10-19,Home Office,East,Florida,Office Supplies,Pen Set,3,12,0,36,-3.23
+ORD-1810,2023-11-25,Home Office,West,Arizona,Office Supplies,Stapler,2,15,0.2,24.0,1.03
+ORD-1811,2022-02-27,Consumer,Central,Illinois,Furniture,Study Table,4,249,0.1,896.4,66.11
+ORD-1812,2022-12-20,Corporate,Central,Colorado,Furniture,Sofa,5,599,0,2995,-8.8
+ORD-1813,2023-03-02,Home Office,South,Alabama,Furniture,Study Table,4,249,0.2,796.8,-29.64
+ORD-1814,2022-03-30,Consumer,East,Ohio,Technology,Headphones,4,129,0.3,361.2,124.25
+ORD-1815,2023-01-20,Corporate,West,Arizona,Technology,"Monitor 27""",3,299,0.2,717.6,-15.28
+ORD-1816,2023-08-05,Consumer,East,Florida,Technology,Laptop HP,4,999,0.1,3596.4,536.73
+ORD-1817,2023-08-23,Consumer,Central,Illinois,Furniture,Sofa,2,599,0,1198,306.75
+ORD-1818,2022-11-04,Home Office,South,Alabama,Technology,Headphones,4,129,0,516,62.62
+ORD-1819,2022-09-08,Corporate,West,Arizona,Technology,Headphones,4,129,0,516,87.46
+ORD-1820,2023-05-08,Home Office,South,Georgia,Furniture,Sofa,1,599,0.1,539.1,70.43
+ORD-1821,2022-09-23,Home Office,East,New York,Office Supplies,Notebook Pack,2,19,0.1,34.2,3.68
+ORD-1822,2023-01-01,Corporate,East,New York,Technology,Headphones,3,129,0.2,309.6,57.68
+ORD-1823,2022-10-24,Consumer,Central,Texas,Office Supplies,Notebook Pack,5,19,0,95,23.27
+ORD-1824,2023-09-06,Home Office,East,Ohio,Office Supplies,Printer Paper,3,25,0.1,67.5,1.5
+ORD-1825,2023-01-07,Corporate,West,Washington,Office Supplies,Printer Paper,2,25,0,50,-1.92
+ORD-1826,2023-05-12,Consumer,South,Georgia,Furniture,Study Table,1,249,0,249,-7.58
+ORD-1827,2023-07-27,Consumer,West,Washington,Furniture,Sofa,1,599,0,599,160.82
+ORD-1828,2022-12-23,Home Office,Central,Colorado,Office Supplies,Printer Paper,2,25,0.2,40.0,12.02
+ORD-1829,2022-12-17,Home Office,East,New York,Office Supplies,Printer Paper,1,25,0,25,0.0
+ORD-1830,2022-08-21,Consumer,Central,Texas,Technology,Laptop HP,2,999,0,1998,182.14
+ORD-1831,2022-01-20,Home Office,South,Alabama,Furniture,Office Chair,2,199,0,398,-33.93
+ORD-1832,2023-08-31,Home Office,West,California,Furniture,Office Chair,3,199,0,597,-41.9
+ORD-1833,2022-04-09,Corporate,West,California,Office Supplies,Pen Set,5,12,0,60,-1.01
+ORD-1834,2022-04-03,Home Office,East,Ohio,Office Supplies,Printer Paper,5,25,0.1,112.5,6.58
+ORD-1835,2023-09-20,Home Office,East,New York,Office Supplies,Notebook Pack,1,19,0.3,13.3,3.24
+ORD-1836,2022-07-16,Home Office,Central,Illinois,Technology,iPhone 14,1,799,0,799,251.06
+ORD-1837,2023-01-11,Corporate,East,New York,Furniture,Office Chair,2,199,0.1,358.2,122.36
+ORD-1838,2023-06-11,Home Office,East,New York,Furniture,Office Chair,3,199,0,597,65.46
+ORD-1839,2023-05-23,Corporate,Central,Texas,Office Supplies,Printer Paper,5,25,0,125,-7.87
+ORD-1840,2023-01-30,Corporate,Central,Illinois,Furniture,Bookshelf,4,149,0,596,88.96
+ORD-1841,2022-07-13,Corporate,West,Arizona,Furniture,Bookshelf,2,149,0,298,104.13
+ORD-1842,2022-04-18,Home Office,South,Alabama,Furniture,Office Chair,1,199,0,199,15.46
+ORD-1843,2022-04-15,Corporate,East,New York,Technology,Headphones,2,129,0.1,232.2,-2.29
+ORD-1844,2022-08-27,Home Office,South,Tennessee,Office Supplies,Stapler,3,15,0.3,31.5,5.26
+ORD-1845,2022-12-31,Corporate,South,Georgia,Office Supplies,Stapler,4,15,0.3,42.0,1.07
+ORD-1846,2022-05-06,Home Office,Central,Texas,Furniture,Sofa,2,599,0,1198,-103.78
+ORD-1847,2022-03-11,Corporate,South,Georgia,Office Supplies,Notebook Pack,2,19,0.2,30.4,5.23
+ORD-1848,2022-11-07,Corporate,West,Washington,Technology,"Monitor 27""",4,299,0,1196,38.4
+ORD-1849,2023-06-01,Consumer,Central,Illinois,Office Supplies,Printer Paper,5,25,0.3,87.5,-8.05
+ORD-1850,2022-05-02,Consumer,South,Georgia,Furniture,Bookshelf,4,149,0.2,476.8,50.94
+ORD-1851,2023-07-25,Home Office,Central,Illinois,Office Supplies,Pen Set,4,12,0.2,38.4,-1.52
+ORD-1852,2023-05-15,Corporate,West,Arizona,Office Supplies,Stapler,5,15,0.3,52.5,8.27
+ORD-1853,2022-06-10,Home Office,West,Arizona,Furniture,Bookshelf,4,149,0.3,417.2,140.55
+ORD-1854,2022-12-28,Corporate,Central,Illinois,Furniture,Office Chair,1,199,0.3,139.3,-11.1
+ORD-1855,2023-08-21,Corporate,West,Washington,Office Supplies,Printer Paper,4,25,0,100,9.27
+ORD-1856,2022-12-26,Home Office,West,California,Office Supplies,Pen Set,2,12,0,24,4.6
+ORD-1857,2022-03-09,Consumer,Central,Illinois,Technology,Headphones,2,129,0,258,36.71
+ORD-1858,2023-11-05,Home Office,South,Georgia,Office Supplies,Stapler,3,15,0,45,9.59
+ORD-1859,2022-11-21,Corporate,South,Georgia,Office Supplies,Stapler,3,15,0.3,31.5,-1.76
+ORD-1860,2023-11-23,Corporate,East,Florida,Furniture,Sofa,5,599,0.1,2695.5,-67.44
+ORD-1861,2023-03-23,Consumer,East,Florida,Furniture,Office Chair,5,199,0,995,29.16
+ORD-1862,2023-08-11,Corporate,South,Georgia,Technology,iPhone 14,5,799,0,3995,664.52
+ORD-1863,2023-08-04,Corporate,South,Alabama,Furniture,Study Table,3,249,0,747,144.31
+ORD-1864,2022-11-04,Home Office,South,Alabama,Office Supplies,Printer Paper,2,25,0.2,40.0,3.24
+ORD-1865,2023-04-10,Home Office,East,Florida,Technology,Laptop HP,5,999,0.2,3996.0,-16.67
+ORD-1866,2022-10-02,Consumer,South,Georgia,Office Supplies,Notebook Pack,5,19,0,95,6.07
+ORD-1867,2022-06-04,Corporate,Central,Illinois,Furniture,Sofa,3,599,0,1797,332.93
+ORD-1868,2022-10-21,Consumer,East,New York,Furniture,Study Table,4,249,0,996,-48.7
+ORD-1869,2022-09-09,Consumer,Central,Texas,Furniture,Sofa,5,599,0.2,2396.0,215.42
+ORD-1870,2022-06-13,Consumer,Central,Colorado,Technology,iPhone 14,3,799,0.1,2157.3,423.7
+ORD-1871,2022-02-13,Consumer,South,Tennessee,Technology,iPhone 14,1,799,0.1,719.1,122.76
+ORD-1872,2023-01-08,Home Office,West,California,Furniture,Study Table,2,249,0,498,78.16
+ORD-1873,2023-06-19,Corporate,Central,Illinois,Furniture,Office Chair,2,199,0.3,278.6,-12.53
+ORD-1874,2023-08-22,Consumer,South,Georgia,Office Supplies,Pen Set,4,12,0,48,-1.68
+ORD-1875,2022-10-09,Corporate,South,Alabama,Furniture,Bookshelf,5,149,0,745,89.89
+ORD-1876,2022-04-26,Consumer,Central,Illinois,Office Supplies,Stapler,4,15,0,60,20.01
+ORD-1877,2023-05-02,Home Office,Central,Texas,Furniture,Office Chair,5,199,0,995,277.27
+ORD-1878,2023-11-19,Home Office,East,New York,Furniture,Sofa,3,599,0.1,1617.3,495.57
+ORD-1879,2023-07-02,Corporate,East,Florida,Furniture,Sofa,1,599,0.2,479.2,152.09
+ORD-1880,2022-04-03,Home Office,East,Florida,Furniture,Study Table,2,249,0.2,398.4,73.35
+ORD-1881,2022-02-04,Corporate,Central,Colorado,Technology,"Monitor 27""",4,299,0.2,956.8,303.23
+ORD-1882,2023-03-09,Home Office,West,Arizona,Technology,Headphones,5,129,0,645,37.63
+ORD-1883,2023-07-15,Home Office,Central,Texas,Furniture,Office Chair,1,199,0,199,36.53
+ORD-1884,2022-01-04,Consumer,South,Georgia,Technology,Headphones,3,129,0.3,270.9,-17.07
+ORD-1885,2023-06-13,Home Office,East,New York,Office Supplies,Stapler,3,15,0.2,36.0,4.15
+ORD-1886,2022-09-24,Corporate,East,New York,Office Supplies,Printer Paper,3,25,0,75,-4.65
+ORD-1887,2023-02-07,Home Office,South,Alabama,Office Supplies,Pen Set,1,12,0,12,3.78
+ORD-1888,2023-10-04,Consumer,East,New York,Technology,"Monitor 27""",2,299,0.1,538.2,116.02
+ORD-1889,2023-02-15,Consumer,South,Alabama,Office Supplies,Printer Paper,2,25,0,50,16.56
+ORD-1890,2022-05-01,Home Office,West,California,Office Supplies,Stapler,4,15,0.2,48.0,-2.24
+ORD-1891,2022-07-15,Consumer,Central,Colorado,Furniture,Sofa,4,599,0,2396,225.44
+ORD-1892,2022-08-09,Consumer,Central,Texas,Office Supplies,Pen Set,4,12,0,48,4.02
+ORD-1893,2022-10-25,Home Office,Central,Illinois,Technology,"Monitor 27""",2,299,0.1,538.2,87.35
+ORD-1894,2022-03-29,Home Office,West,Washington,Furniture,Study Table,3,249,0.2,597.6,124.95
+ORD-1895,2023-03-10,Consumer,Central,Illinois,Technology,iPhone 14,5,799,0,3995,-305.81
+ORD-1896,2022-12-29,Corporate,West,Arizona,Technology,Headphones,5,129,0.3,451.5,32.25
+ORD-1897,2023-01-15,Home Office,East,Florida,Office Supplies,Notebook Pack,5,19,0,95,1.63
+ORD-1898,2022-12-14,Corporate,South,Georgia,Technology,iPhone 14,3,799,0.3,1677.9,159.1
+ORD-1899,2022-11-17,Corporate,West,Washington,Technology,"Monitor 27""",3,299,0.1,807.3,255.76
+ORD-1900,2023-09-20,Corporate,Central,Texas,Office Supplies,Printer Paper,4,25,0,100,4.2
+ORD-1901,2023-07-24,Consumer,South,Tennessee,Technology,Laptop HP,2,999,0,1998,6.87
+ORD-1902,2022-09-24,Corporate,East,New York,Office Supplies,Stapler,4,15,0,60,20.87
+ORD-1903,2023-03-29,Home Office,Central,Texas,Office Supplies,Stapler,4,15,0.2,48.0,-2.37
+ORD-1904,2022-05-07,Home Office,Central,Colorado,Technology,Laptop HP,3,999,0,2997,826.36
+ORD-1905,2022-10-07,Consumer,East,New York,Office Supplies,Notebook Pack,5,19,0.3,66.5,-1.25
+ORD-1906,2023-05-26,Home Office,West,California,Furniture,Office Chair,3,199,0,597,46.19
+ORD-1907,2022-11-28,Corporate,East,Ohio,Technology,iPhone 14,4,799,0.2,2556.8,266.74
+ORD-1908,2023-11-05,Home Office,West,Arizona,Furniture,Office Chair,5,199,0.2,796.0,36.78
+ORD-1909,2023-08-06,Home Office,East,New York,Technology,iPhone 14,3,799,0.1,2157.3,559.1
+ORD-1910,2023-07-15,Corporate,South,Georgia,Technology,"Monitor 27""",3,299,0,897,7.21
+ORD-1911,2022-01-22,Home Office,East,New York,Technology,"Monitor 27""",4,299,0.1,1076.4,205.84
+ORD-1912,2022-05-04,Home Office,Central,Texas,Furniture,Sofa,3,599,0.3,1257.9,-51.47
+ORD-1913,2023-01-12,Home Office,East,Florida,Furniture,Sofa,4,599,0.2,1916.8,39.9
+ORD-1914,2022-04-03,Home Office,South,Tennessee,Furniture,Study Table,4,249,0.2,796.8,-46.35
+ORD-1915,2023-04-20,Home Office,East,New York,Office Supplies,Pen Set,4,12,0.3,33.6,6.16
+ORD-1916,2022-10-25,Consumer,South,Alabama,Furniture,Office Chair,4,199,0.1,716.4,-23.73
+ORD-1917,2022-11-04,Consumer,East,New York,Office Supplies,Stapler,3,15,0.3,31.5,-2.47
+ORD-1918,2023-06-10,Home Office,West,Arizona,Office Supplies,Stapler,4,15,0,60,6.55
+ORD-1919,2022-09-17,Home Office,Central,Illinois,Furniture,Office Chair,5,199,0,995,-48.49
+ORD-1920,2022-07-03,Corporate,East,Florida,Furniture,Office Chair,1,199,0.2,159.2,46.89
+ORD-1921,2023-08-25,Consumer,South,Georgia,Office Supplies,Stapler,5,15,0.1,67.5,3.62
+ORD-1922,2022-07-09,Consumer,West,Washington,Office Supplies,Printer Paper,1,25,0.2,20.0,2.81
+ORD-1923,2022-04-30,Home Office,West,Arizona,Technology,"Monitor 27""",4,299,0.2,956.8,278.38
+ORD-1924,2023-05-14,Consumer,Central,Texas,Office Supplies,Printer Paper,4,25,0.1,90.0,-5.45
+ORD-1925,2022-07-15,Consumer,West,Arizona,Technology,Laptop HP,1,999,0,999,116.39
+ORD-1926,2022-09-05,Consumer,South,Tennessee,Office Supplies,Pen Set,1,12,0.1,10.8,2.66
+ORD-1927,2023-03-09,Corporate,West,California,Technology,Laptop HP,2,999,0.2,1598.4,533.45
+ORD-1928,2023-04-06,Consumer,East,New York,Technology,Headphones,5,129,0.2,516.0,-39.78
+ORD-1929,2023-10-08,Corporate,South,Georgia,Furniture,Sofa,5,599,0.3,2096.5,480.07
+ORD-1930,2023-05-15,Corporate,South,Alabama,Furniture,Sofa,2,599,0,1198,165.01
+ORD-1931,2022-11-20,Home Office,West,Washington,Furniture,Sofa,4,599,0,2396,293.88
+ORD-1932,2023-04-05,Corporate,South,Georgia,Technology,Laptop HP,3,999,0,2997,333.14
+ORD-1933,2023-06-04,Corporate,East,Ohio,Office Supplies,Printer Paper,5,25,0.2,100.0,-4.1
+ORD-1934,2023-02-04,Corporate,South,Alabama,Office Supplies,Printer Paper,4,25,0,100,17.98
+ORD-1935,2022-03-30,Consumer,South,Tennessee,Technology,Laptop HP,2,999,0,1998,344.83
+ORD-1936,2023-05-21,Corporate,Central,Illinois,Technology,Laptop HP,5,999,0,4995,1746.59
+ORD-1937,2023-01-01,Home Office,East,New York,Technology,iPhone 14,1,799,0.1,719.1,67.44
+ORD-1938,2022-05-04,Home Office,East,Florida,Furniture,Bookshelf,3,149,0.1,402.3,99.05
+ORD-1939,2022-06-04,Consumer,West,California,Office Supplies,Notebook Pack,4,19,0.2,60.8,20.26
+ORD-1940,2023-09-18,Consumer,West,California,Office Supplies,Notebook Pack,5,19,0,95,-2.36
+ORD-1941,2023-01-06,Consumer,East,New York,Office Supplies,Printer Paper,4,25,0.3,70.0,8.7
+ORD-1942,2023-10-25,Corporate,Central,Texas,Furniture,Study Table,1,249,0,249,24.3
+ORD-1943,2022-09-09,Corporate,South,Alabama,Furniture,Bookshelf,5,149,0,745,-45.93
+ORD-1944,2023-03-01,Consumer,Central,Texas,Office Supplies,Pen Set,2,12,0.3,16.8,1.51
+ORD-1945,2023-03-16,Corporate,South,Georgia,Furniture,Sofa,5,599,0.1,2695.5,875.18
+ORD-1946,2022-01-11,Consumer,West,Washington,Technology,Headphones,3,129,0.2,309.6,105.84
+ORD-1947,2022-03-04,Home Office,South,Alabama,Technology,Laptop HP,5,999,0,4995,1698.2
+ORD-1948,2023-06-17,Corporate,Central,Illinois,Furniture,Sofa,5,599,0.1,2695.5,605.67
+ORD-1949,2022-01-09,Home Office,Central,Colorado,Office Supplies,Pen Set,4,12,0.2,38.4,7.29
+ORD-1950,2023-09-26,Consumer,South,Georgia,Office Supplies,Printer Paper,4,25,0,100,29.64
+ORD-1951,2023-07-05,Consumer,Central,Colorado,Furniture,Study Table,5,249,0.3,871.5,24.2
+ORD-1952,2023-07-20,Home Office,Central,Colorado,Office Supplies,Printer Paper,2,25,0,50,-4.37
+ORD-1953,2022-09-22,Corporate,East,Florida,Furniture,Sofa,5,599,0,2995,687.03
+ORD-1954,2023-10-05,Home Office,Central,Texas,Technology,iPhone 14,1,799,0.2,639.2,21.79
+ORD-1955,2023-04-10,Home Office,Central,Colorado,Technology,Laptop HP,3,999,0.1,2697.3,75.63
+ORD-1956,2023-11-20,Home Office,East,Ohio,Office Supplies,Stapler,5,15,0,75,-3.95
+ORD-1957,2022-07-17,Consumer,Central,Texas,Furniture,Office Chair,2,199,0.2,318.4,86.86
+ORD-1958,2022-03-05,Home Office,South,Alabama,Technology,"Monitor 27""",2,299,0.2,478.4,-31.03
+ORD-1959,2023-02-17,Corporate,South,Alabama,Furniture,Sofa,4,599,0.2,1916.8,402.64
+ORD-1960,2023-03-03,Home Office,East,Ohio,Technology,Laptop HP,4,999,0.2,3196.8,-133.55
+ORD-1961,2023-06-26,Consumer,West,Arizona,Office Supplies,Pen Set,4,12,0.2,38.4,-3.28
+ORD-1962,2023-01-14,Corporate,West,California,Office Supplies,Stapler,1,15,0,15,0.99
+ORD-1963,2023-06-20,Corporate,East,New York,Technology,Headphones,3,129,0.1,348.3,12.7
+ORD-1964,2022-05-27,Consumer,East,New York,Office Supplies,Stapler,1,15,0.1,13.5,4.05
+ORD-1965,2023-05-16,Home Office,West,Washington,Technology,Headphones,1,129,0,129,11.34
+ORD-1966,2023-08-03,Consumer,South,Alabama,Furniture,Sofa,4,599,0.3,1677.2,-67.48
+ORD-1967,2023-10-14,Home Office,South,Alabama,Furniture,Sofa,2,599,0.1,1078.2,-64.49
+ORD-1968,2023-10-01,Home Office,South,Tennessee,Furniture,Study Table,4,249,0.1,896.4,128.59
+ORD-1969,2022-10-12,Consumer,West,Arizona,Technology,iPhone 14,5,799,0.1,3595.5,548.21
+ORD-1970,2023-07-27,Corporate,West,Arizona,Technology,iPhone 14,5,799,0.3,2796.5,-41.31
+ORD-1971,2022-01-20,Consumer,West,Arizona,Office Supplies,Pen Set,1,12,0.1,10.8,2.74
+ORD-1972,2023-08-17,Consumer,South,Tennessee,Technology,Headphones,4,129,0.3,361.2,-28.81
+ORD-1973,2023-03-24,Consumer,East,New York,Furniture,Office Chair,5,199,0.1,895.5,64.39
+ORD-1974,2022-04-12,Consumer,East,Florida,Furniture,Study Table,2,249,0.1,448.2,110.14
+ORD-1975,2023-02-22,Corporate,East,Florida,Technology,Headphones,2,129,0,258,57.01
+ORD-1976,2022-04-12,Consumer,Central,Texas,Technology,"Monitor 27""",3,299,0.1,807.3,55.69
+ORD-1977,2022-07-27,Corporate,East,New York,Office Supplies,Pen Set,4,12,0.3,33.6,8.02
+ORD-1978,2022-10-03,Consumer,West,Washington,Furniture,Sofa,5,599,0.2,2396.0,-169.02
+ORD-1979,2023-10-11,Consumer,East,Ohio,Technology,Headphones,5,129,0.3,451.5,92.01
+ORD-1980,2023-10-30,Home Office,East,New York,Furniture,Sofa,4,599,0,2396,672.86
+ORD-1981,2022-05-26,Home Office,Central,Illinois,Office Supplies,Pen Set,2,12,0.3,16.8,5.52
+ORD-1982,2022-02-12,Corporate,West,Washington,Furniture,Bookshelf,2,149,0,298,-21.73
+ORD-1983,2023-09-05,Home Office,Central,Illinois,Office Supplies,Stapler,3,15,0,45,7.35
+ORD-1984,2022-02-16,Consumer,East,New York,Office Supplies,Notebook Pack,3,19,0,57,4.44
+ORD-1985,2023-07-24,Corporate,Central,Colorado,Furniture,Study Table,5,249,0.3,871.5,288.33
+ORD-1986,2022-12-17,Corporate,Central,Illinois,Office Supplies,Stapler,3,15,0,45,8.91
+ORD-1987,2022-08-04,Consumer,South,Alabama,Office Supplies,Printer Paper,1,25,0,25,4.77
+ORD-1988,2023-05-03,Home Office,West,Washington,Technology,Laptop HP,4,999,0.3,2797.2,847.19
+ORD-1989,2023-02-07,Home Office,West,Washington,Office Supplies,Notebook Pack,5,19,0,95,28.66
+ORD-1990,2023-11-20,Home Office,West,California,Furniture,Sofa,5,599,0.1,2695.5,199.57
+ORD-1991,2022-05-08,Consumer,South,Tennessee,Furniture,Study Table,4,249,0,996,-0.31
+ORD-1992,2023-11-28,Consumer,Central,Texas,Technology,iPhone 14,5,799,0.1,3595.5,948.44
+ORD-1993,2023-05-21,Consumer,Central,Colorado,Technology,Headphones,4,129,0.3,361.2,-2.14
+ORD-1994,2023-02-10,Home Office,West,Arizona,Furniture,Sofa,2,599,0.3,838.6,-10.74
+ORD-1995,2023-11-20,Home Office,East,New York,Technology,Laptop HP,1,999,0,999,16.81
+ORD-1996,2023-06-20,Home Office,Central,Illinois,Technology,iPhone 14,5,799,0.3,2796.5,38.63
+ORD-1997,2022-01-03,Corporate,South,Tennessee,Office Supplies,Notebook Pack,3,19,0.2,45.6,12.77
+ORD-1998,2022-05-05,Consumer,South,Georgia,Furniture,Bookshelf,5,149,0,745,221.79
+ORD-1999,2022-10-12,Corporate,South,Georgia,Office Supplies,Stapler,3,15,0,45,3.44
+ORD-2000,2023-08-09,Consumer,West,California,Office Supplies,Pen Set,4,12,0,48,15.01
